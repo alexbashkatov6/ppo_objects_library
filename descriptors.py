@@ -67,7 +67,7 @@ class UniversalDescriptor(ABC):
         self.internal_obj_type = internal_obj_type
         self.default_value = default_value
         self.count_generate_to_excel = count_generate_to_excel
-        self.value_set = False
+        # self.value_set = False
 
     @property
     def is_object(self) -> bool:
@@ -89,14 +89,14 @@ class UniversalDescriptor(ABC):
         return getattr(instance, "_{}".format(self.name))
 
     def __set__(self, instance, value: Union[str, tuple[Union[str, list[str]], Optional[IndexManagementCommand]]]):
-        if isinstance(value, str):
-            if value and not value.isspace():
-                self.value_set = True
-        elif isinstance(value, list):
-            if value:
-                self.value_set = True
-        else:
-            self.value_set = True
+        # if isinstance(value, str):
+        #     if value and not value.isspace():
+        #         self.value_set = True
+        # elif isinstance(value, list):
+        #     if value:
+        #         self.value_set = True
+        # else:
+        #     self.value_set = True
         if not self.is_list:
             if isinstance(value, str):
                 str_value = value.strip()

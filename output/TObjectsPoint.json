@@ -4,40 +4,719 @@
         "tag": "1",
         "data": {
             "id": "",
-            "indent": "34",
-            "idControlArea": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
             "iObjTag": "",
             "pointsMonitoring": "",
-            "section": "",
-            "railFittersWarningArea": "",
-            "guardPlusPlus": [],
-            "guardPlusMinus": [],
-            "guardMinusPlus": [],
-            "guardMinusMinus": [],
-            "lockingPlus": [],
-            "lockingMinus": [],
-            "additionalSwitch": [
+            "section": "1SP",
+            "railFittersWarningArea": "OM1_1",
+            "oversizedPlus": [
                 {
-                    "point": "1",
-                    "selfPosition": "+",
-                    "dependencePosition": "+"
-                },
-                {
-                    "point": "3",
-                    "selfPosition": "-",
-                    "dependencePosition": "-"
+                    "section": "3SP"
                 }
             ],
-            "pairPoint": "",
-            "oversizedPlus": [],
-            "oversizedMinus": [],
-            "additionalGuardLock": [
+            "oversizedMinus": [
                 {
-                    "section": "1SP",
-                    "point": "3",
-                    "position": "+"
+                    "section": "5SP"
                 }
             ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "2",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "2_22SP",
+            "railFittersWarningArea": "OM2_1",
+            "oversizedPlus": [
+                {
+                    "section": "4SP"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "3",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "3SP",
+            "railFittersWarningArea": "OM1_1",
+            "oversizedPlus": [
+                {
+                    "section": "23SP"
+                }
+            ],
+            "oversizedMinus": [
+                {
+                    "section": "13SP"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "4",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "4SP",
+            "railFittersWarningArea": "OM2_2",
+            "oversizedMinus": [
+                {
+                    "section": "6_8SP"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "5",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "5SP",
+            "railFittersWarningArea": "OM1_2",
+            "oversizedPlus": [
+                {
+                    "section": "9SP"
+                }
+            ],
+            "oversizedMinus": [
+                {
+                    "section": "7SP"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "6",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "6_8SP",
+            "railFittersWarningArea": "OM2_2"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "7",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "7SP",
+            "railFittersWarningArea": "OM1_2"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "8",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "6_8SP",
+            "railFittersWarningArea": "OM2_2"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "9",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "9SP",
+            "railFittersWarningArea": "OM1_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "10",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "10_16SP",
+            "railFittersWarningArea": "OM2_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "12",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "12SP",
+            "railFittersWarningArea": "OM2_4"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "13",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "13SP",
+            "railFittersWarningArea": "OM1_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "14",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "14SP",
+            "railFittersWarningArea": "OM2_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "15",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "15SP",
+            "railFittersWarningArea": "OM1_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "16",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "10_16SP",
+            "railFittersWarningArea": "OM2_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "17",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "17SP",
+            "railFittersWarningArea": "OM1_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "18",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "2_22SP",
+            "railFittersWarningArea": "OM2_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "19",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "19SP",
+            "railFittersWarningArea": "OM1_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "20",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "2_22SP",
+            "railFittersWarningArea": "OM2_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "21",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "21SP",
+            "railFittersWarningArea": "OM1_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "22",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "2_22SP",
+            "railFittersWarningArea": "OM2_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "23",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "23SP",
+            "railFittersWarningArea": "OM1_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "24",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "24SP",
+            "railFittersWarningArea": "OM2_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "25",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "25_33SP",
+            "railFittersWarningArea": "OM3_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "26",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "26_28SP",
+            "railFittersWarningArea": "OM4_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "27",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "25_33SP",
+            "railFittersWarningArea": "OM3_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "28",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "26_28SP",
+            "railFittersWarningArea": "OM4_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "29",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "25_33SP",
+            "railFittersWarningArea": "OM3_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "30",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "30SP",
+            "railFittersWarningArea": "OM4_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "31",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "25_33SP",
+            "railFittersWarningArea": "OM3_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "32",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "32_34SP",
+            "railFittersWarningArea": "OM4_2"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "33",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "25_33SP",
+            "railFittersWarningArea": "OM3_1"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "34",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "32_34SP",
+            "railFittersWarningArea": "OM4_2"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "36",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "36_48SP",
+            "railFittersWarningArea": "OM4_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "38",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "36_48SP",
+            "railFittersWarningArea": "OM4_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "40",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "40_44SP",
+            "railFittersWarningArea": "OM4_4"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "42",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "40_44SP",
+            "railFittersWarningArea": "OM4_4",
+            "oversizedPlus": [
+                {
+                    "section": "30SP"
+                }
+            ],
+            "oversizedMinus": [
+                {
+                    "section": "26_28SP"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "44",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "40_44SP",
+            "railFittersWarningArea": "OM4_4"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "46",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "36_48SP",
+            "railFittersWarningArea": "OM4_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "48",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "36_48SP",
+            "railFittersWarningArea": "OM4_3"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "50",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "50_66SP",
+            "railFittersWarningArea": "OM4_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "52",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "52_54SP",
+            "railFittersWarningArea": "OM4_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "54",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "52_54SP",
+            "railFittersWarningArea": "OM4_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "56",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "56SP",
+            "railFittersWarningArea": "OM4_6",
+            "oversizedMinus": [
+                {
+                    "section": "52_54SP",
+                    "point": "52",
+                    "position": "-"
+                }
+            ]
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "58",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "50_66SP",
+            "railFittersWarningArea": "OM4_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "60",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "50_66SP",
+            "railFittersWarningArea": "OM4_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "62",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "62SP",
+            "railFittersWarningArea": "OM4_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "64",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "64SP",
+            "railFittersWarningArea": "OM4_6"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "66",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "50_66SP",
+            "railFittersWarningArea": "OM4_5"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "68",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "68SP",
+            "railFittersWarningArea": "OM4_7"
+        }
+    },
+    {
+        "class": "PpoPoint",
+        "tag": "70",
+        "data": {
+            "id": "",
+            "indent": "",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "70SP",
+            "railFittersWarningArea": "OM4_7"
         }
     }
 ]

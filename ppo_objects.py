@@ -106,8 +106,8 @@ class AdditionalSwitch(PpoObject):
 
 class SectionAndIgnoreCondition(PpoObject):
     section = AnyDescriptor()
-    point = AnyDescriptor()
-    position = AnyDescriptor()
+    point = AnyDescriptor(is_required=False)
+    position = AnyDescriptor(is_required=False)
 
 
 class NotificationPoint(PpoObject):
