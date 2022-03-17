@@ -89,7 +89,13 @@ class UniversalDescriptor(ABC):
         return getattr(instance, "_{}".format(self.name))
 
     def __set__(self, instance, value: Union[str, tuple[Union[str, list[str]], Optional[IndexManagementCommand]]]):
-        if isinstance(value, str) and value and not value.isspace():
+        if isinstance(value, str):
+            if value and not value.isspace():
+                self.value_set = True
+        elif isinstance(value, list):
+            if value:
+                self.value_set = True
+        else:
             self.value_set = True
         if not self.is_list:
             if isinstance(value, str):

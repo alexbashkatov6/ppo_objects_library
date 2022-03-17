@@ -9,13 +9,6 @@
             "iObjTag": "",
             "pointsMonitoring": "",
             "section": "",
-            "railFittersWarningArea": "",
-            "guardPlusPlus": [],
-            "guardPlusMinus": [],
-            "guardMinusPlus": [],
-            "guardMinusMinus": [],
-            "lockingPlus": [],
-            "lockingMinus": [],
             "additionalSwitch": [
                 {
                     "point": "1",
@@ -28,9 +21,6 @@
                     "dependencePosition": "-"
                 }
             ],
-            "pairPoint": "",
-            "oversizedPlus": [],
-            "oversizedMinus": [],
             "additionalGuardLock": [
                 {
                     "section": "1SP",
