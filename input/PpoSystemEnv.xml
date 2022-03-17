@@ -1,0 +1,15 @@
+
+    <!-- Системное окружение -->
+
+    <SysEnv  ExchId="17E" >
+
+        <DSP   Num="1"  TRM="2" />
+
+        <USO   Cab="1"  MSI="2" MVU="2" />
+
+        <BSW   MKI="79" MUI="79" />
+        <BST   MKI="43" MUI="43" />
+
+        <BSSO  MKI="71" MUI="71" />
+
+    </SysEnv>

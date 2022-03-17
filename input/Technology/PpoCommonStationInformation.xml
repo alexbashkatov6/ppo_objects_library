@@ -1,0 +1,91 @@
+
+    <!-- Режим "День/Ночь/ДСН" -->
+
+    <TObj Type="DN" Id="9110"  Tag="OSI_DN" >
+
+      <RU  TObj="ULTRAMAR" /> <DN  IObj="DN" />
+
+    </TObj>
+
+    <!-- Электропитающая установка -->
+
+    <TObj Type="TS" Id="9115"  Tag="OSI_SCHVP" >
+
+      <TS  IObj="KSU_EPU_SCHVP" />
+
+    </TObj>
+
+    <TObj Type="TS" Id="9111"  Tag="OSI_VUF1" >
+
+      <TS  IObj="KSU_EPU_VUF1" />
+
+    </TObj>
+
+    <TObj Type="TS" Id="9112"  Tag="OSI_VUF2" >
+
+      <TS  IObj="KSU_EPU_VUF2" />
+
+    </TObj>
+
+    <TObj Type="TS" Id="9114"  Tag="OSI_APU" >
+
+      <TS  IObj="KSU_EPU_APU" />
+
+    </TObj>
+
+    <!-- Контроль перегорания предохранителей -->
+
+    <TObj Type="TS" Id="9104"  Tag="OSI_KPA" >
+
+      <TS  IObj="OSI_KPA" />
+
+    </TObj>
+
+    <!-- Контроль исправности устройств кодирования -->
+
+    <TObj Type="TS" Id="9105"  Tag="OSI_APK" >
+
+      <TS  IObj="OSI_APK" />
+
+    </TObj>
+
+    <!-- Контроль сопротивления изоляции -->
+
+    <TObj Type="TS" Id="9106"  Tag="OSI_KSIZ" >
+
+      <TS  IObj="KSIZ" />
+
+    </TObj>
+
+    <!-- Контроль вводно-защитного устройства -->
+
+    <TObj Type="TS" Id="9107"  Tag="OSI_KVZU" >
+
+      <TS  IObj="OSI_KVZU" />
+
+    </TObj>
+
+    <!-- Общий контроль положения стрелок и макета -->
+
+    <TObj Type="VzMak" Id="9101"  Tag="VzMak" >
+
+      <RU  TObj="ULTRAMAR" /> <KB  IObj="KB" />
+
+    </TObj>
+
+    <!-- Контроль тока перевода стрелок -->
+
+    <TObj Type="TS" Id="9102"  Tag="KTPS" >
+
+      <TS IObj="KTPS" />
+
+    </TObj>
+
+    <!-- Пожаро-охранная сигнализация -->
+
+    <TObj Type="Post" Id="9103"  Tag="POS" >
+
+      <PT  IObj="POS_PT" />
+      <VS  IObj="POS_VS" />
+
+    </TObj>

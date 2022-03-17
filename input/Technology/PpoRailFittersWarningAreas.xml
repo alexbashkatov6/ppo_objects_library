@@ -1,0 +1,170 @@
+
+    <!-- Зоны оповещение монтеров пути -->
+
+    <!-- Район оповещения № 1 -->
+
+    <TObj Type="GroupOM"  Tag="OM1" />
+
+    <TObj Type="OM" Id="5101"  Tag="OM1_1" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM1" /> <OM  IObj="OM1_1" />
+
+      <Str TObj="1 3 13" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5102"  Tag="OM1_2" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM1" /> <OM  IObj="OM1_2" />
+
+      <Str TObj="5 7" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5103"  Tag="OM1_3" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM1" /> <OM  IObj="OM1_3" />
+
+      <Str TObj="9 23" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5105"  Tag="OM1_5" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM1" /> <OM  IObj="OM1_5" />
+
+      <Str TObj="15 17" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5106"  Tag="OM1_6" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM1" /> <OM  IObj="OM1_6" />
+
+      <Str TObj="19 21" />
+
+    </TObj>
+
+    <!-- Район оповещения № 2 -->
+
+    <TObj Type="GroupOM"  Tag="OM2" />
+
+    <TObj Type="OM" Id="5201"  Tag="OM2_1" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_1" />
+
+      <Str TObj="2 18 20 22" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5202"  Tag="OM2_2" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_2" />
+
+      <Str TObj="4 6 8" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5203"  Tag="OM2_3" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_3" />
+
+      <Str TObj="10 16" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5204"  Tag="OM2_4" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_4" />
+
+      <Str TObj="12" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5205"  Tag="OM2_5" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_5" />
+
+      <Str TObj="14" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5206"  Tag="OM2_6" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM2" /> <OM  IObj="OM2_6" />
+
+      <Str TObj="24" />
+
+    </TObj>
+
+    <!-- Район оповещения № 3 -->
+
+    <TObj Type="GroupOM"  Tag="OM3" />
+
+    <TObj Type="OM" Id="5301"  Tag="OM3_1" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM3" /> <OM  IObj="OM3_1" />
+
+      <Str TObj="25 27 29 31 33" />
+
+    </TObj>
+
+    <!-- Район оповещения № 4 -->
+
+    <TObj Type="GroupOM"  Tag="OM4" />
+
+    <TObj Type="OM" Id="5401"  Tag="OM4_1" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_1" />
+
+      <Str TObj="26 28 30" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5402"  Tag="OM4_2" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_2" />
+
+      <Str TObj="32 34" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5403"  Tag="OM4_3" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_3" />
+
+      <Str TObj="36 38 46 48" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5404"  Tag="OM4_4" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_4" />
+
+      <Str TObj="40 42 44" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5405"  Tag="OM4_5" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_5" />
+
+      <Str TObj="50 58 60 66" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5406"  Tag="OM4_6" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_6" />
+
+      <Str TObj="52 54 56 62 64" />
+
+    </TObj>
+
+    <TObj Type="OM" Id="5407"  Tag="OM4_7" >
+
+      <RU  TObj="ULTRAMAR" /> <GroupOM  TObj="OM4" /> <OM  IObj="OM4_7" />
+
+      <Str TObj="68 70" />
+
+    </TObj>

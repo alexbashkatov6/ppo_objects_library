@@ -1,0 +1,12 @@
+
+    <!-- Увязка с автоблокировкой -->
+
+    <TObj Type="AdjAB" Id="1501"  Tag="IIGP" >
+
+      <Links  Pnt0="N:0" />
+
+      <RU  TObj="ULTRAMAR" />
+
+      <Adj  IObj="IIGP" />
+
+    </TObj>

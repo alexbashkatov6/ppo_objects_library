@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+    <!-- Стрелки -->
+
+<Main>
+    <TObj  Type="Str" Id="3001"  Tag="1" >
+
+      <Links  Pnt0="1SP:2"  Pnt1="M3:0"  Pnt2="3SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="1" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="1SP" />  <MP  TObj="OM1_1" />
+
+      <NGP  TObjSPU="5SP" /> <NGM  TObjSPU="3SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3002"  Tag="2" >
+
+      <Links  Pnt0="2_22SP:1"  Pnt1="18:0"  Pnt2="4SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="2" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="2_22SP" />  <MP  TObj="OM2_1" />
+
+      <NGM  TObjSPU="4SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3003"  Tag="3" >
+
+      <Links  Pnt0="3SP:2"  Pnt1="13SP:1"  Pnt2="23SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="3" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="3SP" />  <MP  TObj="OM1_1" />
+
+      <NGP  TObjSPU="13SP" /> <NGM  TObjSPU="23SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3004"  Tag="4" >
+
+      <Links  Pnt0="4SP:1"  Pnt1="6_8SP:2"  Pnt2="M10:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="4" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="4SP" />  <MP  TObj="OM2_2" />
+
+      <NGP  TObjSPU="6_8SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3005"  Tag="5" >
+
+      <Links  Pnt0="5SP:2"  Pnt1="7SP:1"  Pnt2="9SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="5" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="5SP" />  <MP  TObj="OM1_2" />
+
+      <NGP  TObjSPU="7SP" /> <NGM  TObjSPU="9SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3006"  Tag="6" >
+
+      <Links  Pnt0="6_8SP:1"  Pnt1="8:0"  Pnt2="M20:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="6" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="6_8SP" />  <MP  TObj="OM2_2" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3007"  Tag="7" >
+
+      <Links  Pnt0="7SP:2"  Pnt1="CH2:1"  Pnt2="CH1:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="7" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="7SP" />  <MP  TObj="OM1_2" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3008"  Tag="8" >
+
+      <Links  Pnt0="6:1"  Pnt1="10:2"  Pnt2="M26:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="8" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="6_8SP" />  <MP  TObj="OM2_2" />
+
+      <OM  TObj="+10" /> <ZM  TObj="10_16SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3009"  Tag="9" >
+
+      <Links  Pnt0="9SP:2"  Pnt1="CH4:1"  Pnt2="CH3:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="9" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="9SP" />  <MP  TObj="OM1_3" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3010"  Tag="10" >
+
+      <Links  Pnt0="16:1"  Pnt1="M22:1"  Pnt2="8:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="10" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="10_16SP" />  <MP  TObj="OM2_3" />
+
+      <OP  TObj="-8" /> <ZP  TObj="6_8SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3012"  Tag="12" >
+
+      <Links  Pnt0="12SP:1"  Pnt1="M6:1"  Pnt2="M8:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="12" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="12SP" />  <MP  TObj="OM2_4" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3013"  Tag="13" >
+
+      <Links  Pnt0="13SP:2"  Pnt1="CH7:1"  Pnt2="CH8:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="13" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="13SP" />  <MP  TObj="OM1_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3014"  Tag="14" >
+
+      <Links  Pnt0="14SP:1"  Pnt1="M28:1"  Pnt2="16:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="14_16" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="14SP" /> <St2  TObj="16" /> <MP  TObj="OM2_5" />
+
+      <OP  TObj="+16" /> <ZP  TObj="10_16SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3015"  Tag="15" >
+
+      <Links  Pnt0="15SP:1"  Pnt1="M5:1"  Pnt2="17:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="15_17" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="15SP" /> <St2  TObj="17" /> <MP  TObj="OM1_5" />
+
+      <OP  TObj="+17" /> <ZP  TObj="17SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3016"  Tag="16" >
+
+      <Links  Pnt0="10_16SP:2"  Pnt1="10:0"  Pnt2="14:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="14_16" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="10_16SP" /> <St2  TObj="14" /> <MP  TObj="OM2_3" />
+
+      <OP  TObj="+14" /> <ZP  TObj="14SP" />
+      <OM  TObj="+10" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3017"  Tag="17" >
+
+      <Links  Pnt0="17SP:2"  Pnt1="M15:1"  Pnt2="15:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="15_17" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="17SP" /> <St2  TObj="15" /> <MP  TObj="OM1_5" />
+
+      <OP  TObj="+15" /> <ZP  TObj="15SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3018"  Tag="18" >
+
+      <Links  Pnt0="2:1"  Pnt1="22:0"  Pnt2="20:0" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="18" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="2_22SP" />  <MP  TObj="OM2_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3019"  Tag="19" >
+
+      <Links  Pnt0="19SP:2"  Pnt1="M17:1"  Pnt2="21:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="19_21" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="19SP" /> <St2  TObj="21" /> <MP  TObj="OM1_6" />
+
+      <OP  TObj="+21" /> <ZP  TObj="21SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3020"  Tag="20" >
+
+      <Links  Pnt0="18:2"  Pnt1="M12:1"  Pnt2="M14:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="20" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="2_22SP" />  <MP  TObj="OM2_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3021"  Tag="21" >
+
+      <Links  Pnt0="21SP:1"  Pnt1="M11:1"  Pnt2="19:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="19_21" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="21SP" /> <St2  TObj="19" /> <MP  TObj="OM1_6" />
+
+      <OP  TObj="+19" /> <ZP  TObj="19SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3022"  Tag="22" >
+
+      <Links  Pnt0="18:1"  Pnt1="M16:1"  Pnt2="M18:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="22" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="2_22SP" />  <MP  TObj="OM2_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3023"  Tag="23" >
+
+      <Links  Pnt0="23SP:2"  Pnt1="CH9:1"  Pnt2="CH10:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="23" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="23SP" />  <MP  TObj="OM1_3" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3024"  Tag="24" >
+
+      <Links  Pnt0="24SP:2"  Pnt1="M34:1"  Pnt2="M32:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="24" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="24SP" /> <MP  TObj="OM2_6" />
+
+      <ZP  TObj="CHM23" /> <Param  JoiningTheWay="Y" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3025"  Tag="25" >
+
+      <Links  Pnt0="25_33SP:2"  Pnt1="29:0"  Pnt2="27:0" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="25" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="25_33SP" />  <MP  TObj="OM3_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3026"  Tag="26" >
+
+      <Links  Pnt0="28:1"  Pnt1="CHM27:1"  Pnt2="CHM26:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="26" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="26_28SP" />  <MP  TObj="OM4_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3027"  Tag="27" >
+
+      <Links  Pnt0="25:2"  Pnt1="33:0"  Pnt2="31:0" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="27" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="25_33SP" />  <MP  TObj="OM3_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3028"  Tag="28" >
+
+      <Links  Pnt0="26_28SP:2"  Pnt1="26:0"  Pnt2="CHM25:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="28" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="26_28SP" />  <MP  TObj="OM4_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3029"  Tag="29" >
+
+      <Links  Pnt0="25:1"  Pnt1="M23:1"  Pnt2="M25:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="29" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="25_33SP" />  <MP  TObj="OM3_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3030"  Tag="30" >
+
+      <Links  Pnt0="30SP:2"  Pnt1="CHM24:1"  Pnt2="CHM23:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="30" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="30SP" />  <MP  TObj="OM4_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3031"  Tag="31" >
+
+      <Links  Pnt0="27:2"  Pnt1="M29:1"  Pnt2="M27:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="31" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="25_33SP" />  <MP  TObj="OM3_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3032"  Tag="32" >
+
+      <Links  Pnt0="32_34SP:2"  Pnt1="CHM29:1"  Pnt2="CHM30:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="32" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="32_34SP" />  <MP  TObj="OM4_2" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3033"  Tag="33" >
+
+      <Links  Pnt0="27:1"  Pnt1="M33:1"  Pnt2="M31:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="33" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="25_33SP" />  <MP  TObj="OM3_1" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3034"  Tag="34" >
+
+      <Links  Pnt0="32_34SP:1"  Pnt1="M38:1"  Pnt2="36:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="34_36" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="32_34SP" /> <St2  TObj="36" /> <MP  TObj="OM4_2" />
+
+      <OP  TObj="+36" /> <ZP  TObj="36_48SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3036"  Tag="36" >
+
+      <Links  Pnt0="46:1"  Pnt1="CHM28:1"  Pnt2="34:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="34_36" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="36_48SP" /> <St2  TObj="34" /> <MP  TObj="OM4_3" />
+
+      <OP  TObj="+34" /> <ZP  TObj="32_34SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3038"  Tag="38" >
+
+      <Links  Pnt0="36_48SP:1"  Pnt1="48:0"  Pnt2="40:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="38_40" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="36_48SP" /> <St2  TObj="40" /> <MP  TObj="OM4_3" />
+
+      <OP  TObj="+40" /> <ZP  TObj="40_44SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3040"  Tag="40" >
+
+      <Links  Pnt0="40_44SP:2"  Pnt1="42:0"  Pnt2="38:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="38_40" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="40_44SP" /> <St2  TObj="38" /> <MP  TObj="OM4_4" />
+
+      <OP  TObj="+38" /> <ZP  TObj="36_48SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3042"  Tag="42" >
+
+      <Links  Pnt0="40:1"  Pnt1="26_28SP:1"  Pnt2="30SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="42" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="40_44SP" />  <MP  TObj="OM4_4" />
+
+      <NGP  TObjSPU="26_28SP" /> <NGM  TObjSPU="30SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3044"  Tag="44" >
+
+      <Links  Pnt0="40_44SP:1"  Pnt1="M40:1"  Pnt2="46:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="44_46" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="40_44SP" /> <St2  TObj="46" /> <MP  TObj="OM4_4" />
+
+      <OP  TObj="+46" /> <ZP  TObj="36_48SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3046"  Tag="46" >
+
+      <Links  Pnt0="36_48SP:2"  Pnt1="36:0"  Pnt2="44:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="44_46" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="36_48SP" /> <St2  TObj="44" /> <MP  TObj="OM4_3" />
+
+      <OP  TObj="+44" /> <ZP  TObj="40_44SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3048"  Tag="48" >
+
+      <Links  Pnt0="38:1"  Pnt1="M42:1"  Pnt2="M44:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="48" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="36_48SP" />  <MP  TObj="OM4_3" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3050"  Tag="50" >
+
+      <Links  Pnt0="50_66SP:1"  Pnt1="58:0"  Pnt2="52:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="50_52" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="50_66SP" /> <St2  TObj="52" /> <MP  TObj="OM4_5" />
+
+      <OP  TObj="+52" /> <ZP  TObj="52_54SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3052"  Tag="52" >
+
+      <Links  Pnt0="52_54SP:2"  Pnt1="56:1"  Pnt2="50:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="50_52" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="52_54SP" /> <St2  TObj="50" /> <MP  TObj="OM4_6" />
+
+      <OP  TObj="+50" /> <ZP  TObj="50_66SP" />
+      <OM  TObj="-56" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3054"  Tag="54" >
+
+      <Links  Pnt0="52_54SP:1"  Pnt1="NM3:1"  Pnt2="62SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="54" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="52_54SP" />  <MP  TObj="OM4_6" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3056"  Tag="56" >
+
+      <Links  Pnt0="56SP:1"  Pnt1="52:1"  Pnt2="64:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="56" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="56SP" />  <MP  TObj="OM4_6" />
+
+      <NGP  TObjSPU="52_54SP" TObjStr="52" OffPos="M" />
+
+      <ZM  TObj="52_54SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3058"  Tag="58" >
+
+      <Links  Pnt0="50:1"  Pnt1="60:0"  Pnt2="66:0" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="58" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="50_66SP" />  <MP  TObj="OM4_5" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3060"  Tag="60" >
+
+      <Links  Pnt0="58:1"  Pnt1="M58:1"  Pnt2="M60:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="60" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="50_66SP" />  <MP  TObj="OM4_5" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3062"  Tag="62" >
+
+      <Links  Pnt0="62SP:1"  Pnt1="NM2:1"  Pnt2="64:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="62_64" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="62SP" /> <St2  TObj="64" /> <MP  TObj="OM4_6" />
+
+      <OP  TObj="+64" /> <ZP  TObj="64SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3064"  Tag="64" >
+
+      <Links  Pnt0="64SP:2"  Pnt1="56:2"  Pnt2="62:2" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="62_64" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="64SP" /> <St2  TObj="62" /> <MP  TObj="OM4_6" />
+
+      <OP  TObj="+62" /> <ZP  TObj="62SP" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3066"  Tag="66" >
+
+      <Links  Pnt0="58:2"  Pnt1="M68:1"  Pnt2="M66:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="66" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="50_66SP" />  <MP  TObj="OM4_5" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3068"  Tag="68" >
+
+      <Links  Pnt0="68SP:2"  Pnt1="M50:1"  Pnt2="M52:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="68" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="68SP" />  <MP  TObj="OM4_7" />
+
+    </TObj>
+
+    <TObj  Type="Str" Id="3070"  Tag="70" >
+
+      <Links  Pnt0="70SP:1"  Pnt1="M64:1"  Pnt2="M62:1" />
+
+      <RU TObj="ULTRAMAR" /> <St IObj="70" /> <VzMak TObj="VzMak" />
+
+      <Sek  TObj="70SP" />  <MP  TObj="OM4_7" />
+
+    </TObj>
+</Main>

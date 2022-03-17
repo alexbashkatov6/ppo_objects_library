@@ -1,0 +1,66 @@
+
+    <!-- Тупики и пути необщего пользования -->
+
+    <TObj  Type="Tpk" Id="4192"  Tag="M2P" >
+
+      <Links  Pnt0="M2:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="M2P" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="4194"  Tag="M4P" >
+
+      <Links  Pnt0="M4:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="M4P" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="5AT" >
+
+      <Links  Pnt0="5AP:1" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="6AT" >
+
+      <Links  Pnt0="6AP:1" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="11T" >
+
+      <Links  Pnt0="11P:2" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="12T" >
+
+      <Links  Pnt0="12P:2" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="13T" >
+
+      <Links  Pnt0="13P:2" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="14T" >
+
+      <Links  Pnt0="14P:2" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="15T" >
+
+      <Links  Pnt0="15P:2" />
+
+    </TObj>
+
+    <TObj  Type="Tpk" Id="0"  Tag="16T" >
+
+      <Links  Pnt0="16P:2" />
+
+    </TObj>

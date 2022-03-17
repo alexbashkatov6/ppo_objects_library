@@ -1,0 +1,46 @@
+
+    <!-- Стрелочные электроприводы с бесконтактным интерфейсом на базе УСО БК -->
+
+    <IObj Type="BST1"  Tag="1"     > <Addr  KI="1"  UI="1"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="3"     > <Addr  KI="2"  UI="2"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="5"     > <Addr  KI="3"  UI="3"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="7"     > <Addr  KI="4"  UI="4"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="9"     > <Addr  KI="5"  UI="5"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="23"    > <Addr  KI="6"  UI="6"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="13"    > <Addr  KI="7"  UI="7"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
+    <IObj Type="BST2"  Tag="15_17" > <Addr  KI="8"  UI="8"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
+    <IObj Type="BST2"  Tag="19_21" > <Addr  KI="9"  UI="9"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="25"    > <Addr  KI="10" UI="10" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="27"    > <Addr  KI="11" UI="11" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="29"    > <Addr  KI="12" UI="12" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="31"    > <Addr  KI="13" UI="13" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="33"    > <Addr  KI="14" UI="14" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="42"    > <Addr  KI="15" UI="15" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="48"    > <Addr  KI="16" UI="16" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="32"    > <Addr  KI="17" UI="17" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet03_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="2"     > <Addr  KI="18" UI="18" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="4"     > <Addr  KI="19" UI="19" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="6"     > <Addr  KI="20" UI="20" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="8"     > <Addr  KI="21" UI="21" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="10"    > <Addr  KI="22" UI="22" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="12"    > <Addr  KI="23" UI="23" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST2"  Tag="14_16" > <Addr  KI="24" UI="24" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="18"    > <Addr  KI="25" UI="25" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="20"    > <Addr  KI="26" UI="26" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="22"    > <Addr  KI="27" UI="27" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="24"    > <Addr  KI="28" UI="28" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="26"    > <Addr  KI="29" UI="29" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="28"    > <Addr  KI="30" UI="30" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="30"    > <Addr  KI="31" UI="31" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet04_Crate2" /> </IObj>
+    <IObj Type="BST2"  Tag="34_36" > <Addr  KI="32" UI="32" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST2"  Tag="38_40" > <Addr  KI="33" UI="33" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+    <IObj Type="BST2"  Tag="44_46" > <Addr  KI="34" UI="34" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="54"    > <Addr  KI="35" UI="35" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+    <IObj Type="BST2"  Tag="50_52" > <Addr  KI="36" UI="36" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST2"  Tag="62_64" > <Addr  KI="37" UI="37" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="58"    > <Addr  KI="38" UI="38" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="60"    > <Addr  KI="39" UI="39" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="66"    > <Addr  KI="40" UI="40" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="68"    > <Addr  KI="41" UI="41" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+    <IObj Type="BST1"  Tag="70"    > <Addr  KI="42" UI="42" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
+    <IObj Type="BST1"  Tag="56"    > <Addr  KI="43" UI="43" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>

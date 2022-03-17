@@ -1,0 +1,512 @@
+
+    <!-- Маневровые сигналы -->
+
+    <TObj  Type="SvMan" Id="2001"  Tag="M1" >
+
+      <Links  Pnt0="NAP:2"  Pnt1="1SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M1" />
+
+      <Routes  M="M1_M3 M1_CH7 M1_CH8 M1_CH9 M1_CH10" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2002"  Tag="M2" >
+
+      <Links  Pnt0="M2P:0"  Pnt1="12SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M2" />
+
+      <Routes  M="M2_M6 M2_M8" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2003"  Tag="M3" >
+
+      <Links  Pnt0="1:1"  Pnt1="5SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M3" />
+
+      <Routes  M="M3_CH1 M3_CH2 M3_CH3 M3_CH4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2004"  Tag="M4" >
+
+      <Links  Pnt0="M4P:0"  Pnt1="2_22SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M4" />
+
+      <Routes  M="M4_M10 M4_M12 M4_M14 M4_M16 M4_M18 M4_M20 M4_M26 M4_M30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2005"  Tag="M5" >
+
+      <Links  Pnt0="4AP:2"  Pnt1="15:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M5" />
+
+      <Routes  M="M5_M13" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2006"  Tag="M6" >
+
+      <Links  Pnt0="10_12P:2"  Pnt1="12:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M6" />
+
+      <Routes  M="M6_M2" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2007"  Tag="M7" >
+
+      <Links  Pnt0="5AP:2"  Pnt1="17SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M7" />
+
+      <Routes  M="M7_M13 M7_M15" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2008"  Tag="M8" >
+
+      <Links  Pnt0="12_14P:2"  Pnt1="12:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M8" />
+
+      <Routes  M="M8_M2" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2009"  Tag="M9" >
+
+      <Links  Pnt0="6AP:2"  Pnt1="19SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M9" />
+
+      <Routes  M="M9_M17 M9_M19" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2010"  Tag="M10" >
+
+      <Links  Pnt0="26P:2"  Pnt1="4:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M10" />
+
+      <Routes  M="M10_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2011"  Tag="M11" >
+
+      <Links  Pnt0="7AP:2"  Pnt1="21:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M11" />
+
+      <Routes  M="M11_M19" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2012"  Tag="M12" >
+
+      <Links  Pnt0="29P:2"  Pnt1="20:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M12" />
+
+      <Routes  M="M12_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2013"  Tag="M13" >
+
+      <Links  Pnt0="4BP:1"  Pnt1="15SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M13" />
+
+      <Routes  M="M13_M5 M13_M7" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2014"  Tag="M14" >
+
+      <Links  Pnt0="30P:2"  Pnt1="20:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M14" />
+
+      <Routes  M="M14_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2015"  Tag="M15" >
+
+      <Links  Pnt0="5BP:1"  Pnt1="17:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M15" />
+
+      <Routes  M="M15_M7" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2016"  Tag="M16" >
+
+      <Links  Pnt0="27P:2"  Pnt1="22:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M16" />
+
+      <Routes  M="M16_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2017"  Tag="M17" >
+
+      <Links  Pnt0="6BP:1"  Pnt1="19:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M17" />
+
+      <Routes  M="M17_M9" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2018"  Tag="M18" >
+
+      <Links  Pnt0="28P:2"  Pnt1="22:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M18" />
+
+      <Routes  M="M18_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2019"  Tag="M19" >
+
+      <Links  Pnt0="7BP:1"  Pnt1="21SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M19" />
+
+      <Routes  M="M19_M9 M19_M11" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2020"  Tag="M20" >
+
+      <Links  Pnt0="25P:2"  Pnt1="6:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M20" />
+
+      <Routes  M="M20_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2021"  Tag="M21" >
+
+      <Links  Pnt0="10P:2"  Pnt1="25_33SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M21" />
+
+      <Routes  M="M21_M23 M21_M25 M21_M27 M21_M29 M21_M31 M21_M33" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2022"  Tag="M22" >
+
+      <Links  Pnt0="10_12P:1"  Pnt1="10:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M22" />
+
+      <Routes  M="M22_M30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2023"  Tag="M23" >
+
+      <Links  Pnt0="11P:1"  Pnt1="29:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M23" />
+
+      <Routes  M="M23_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2024"  Tag="M24" >
+
+      <Links  Pnt0="12_14P:1"  Pnt1="14SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M24" />
+
+      <Routes  M="M24_M28 M24_M30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2025"  Tag="M25" >
+
+      <Links  Pnt0="12P:1"  Pnt1="29:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M25" />
+
+      <Routes  M="M25_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2026"  Tag="M26" >
+
+      <Links  Pnt0="24P:2"  Pnt1="8:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M26" />
+
+      <Routes  M="M26_M4" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2027"  Tag="M27" >
+
+      <Links  Pnt0="15P:1"  Pnt1="31:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M27" />
+
+      <Routes  M="M27_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2028"  Tag="M28" >
+
+      <Links  Pnt0="22P:2"  Pnt1="14:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M28" />
+
+      <Routes  M="M28_M24" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2029"  Tag="M29" >
+
+      <Links  Pnt0="16P:1"  Pnt1="31:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M29" />
+
+      <Routes  M="M29_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2030"  Tag="M30" >
+
+      <Links  Pnt0="23BP:2"  Pnt1="10_16SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M30" />
+
+      <Routes  M="M30_M4 M30_M22 M30_M24" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2031"  Tag="M31" >
+
+      <Links  Pnt0="13P:1"  Pnt1="33:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M31" />
+
+      <Routes  M="M31_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2032"  Tag="M32" >
+
+      <Links  Pnt0="22P:1"  Pnt1="24:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M32" />
+
+      <Routes  M="M32_M36" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2033"  Tag="M33" >
+
+      <Links  Pnt0="14P:1"  Pnt1="33:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M33" />
+
+      <Routes  M="M33_M21" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2034"  Tag="M34" >
+
+      <Links  Pnt0="23BP:1"  Pnt1="24:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M34" />
+
+      <Routes  M="M34_M36" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2036"  Tag="M36" >
+
+      <Links  Pnt0="23AP:2"  Pnt1="24SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M36" />
+
+      <Routes  M="M36_M32 M36_M34" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2038"  Tag="M38" >
+
+      <Links  Pnt0="32_68P:2"  Pnt1="34:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M38" />
+
+      <Routes  M="M38_CHM29 M38_CHM30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2040"  Tag="M40" >
+
+      <Links  Pnt0="40_56P:2"  Pnt1="44:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M40" />
+
+      <Routes  M="M40_CHM23 M40_CHM24 M40_CHM25 M40_CHM26 M40_CHM27 M40_CHM28 M40_CHM29 M40_CHM30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2042"  Tag="M42" >
+
+      <Links  Pnt0="46_50P:2"  Pnt1="48:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M42" />
+
+      <Routes  M="M42_CHM23 M42_CHM24 M42_CHM25 M42_CHM26 M42_CHM27 M42_CHM28 M42_CHM29 M42_CHM30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2044"  Tag="M44" >
+
+      <Links  Pnt0="46_68P:2"  Pnt1="48:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M44" />
+
+      <Routes  M="M44_CHM23 M44_CHM24 M44_CHM25 M44_CHM26 M44_CHM27 M44_CHM28 M44_CHM29 M44_CHM30" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2046"  Tag="M46" >
+
+      <Links  Pnt0="46_50P:1"  Pnt1="50_66SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M46" />
+
+      <Routes  M="M46_NM1 M46_NM2 M46_NM3 M46_M58 M46_M60 M46_M66 M46_M68" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2048"  Tag="M48" >
+
+      <Links  Pnt0="40_56P:1"  Pnt1="56SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M48" />
+
+      <Routes  M="M48_NM1 M48_V1_NM1 M48_NM2 M48_NM3" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2050"  Tag="M50" >
+
+      <Links  Pnt0="46_68P:1"  Pnt1="68:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M50" />
+
+      <Routes  M="M50_M54" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2052"  Tag="M52" >
+
+      <Links  Pnt0="32_68P:1"  Pnt1="68:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M52" />
+
+      <Routes  M="M52_M54" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2054"  Tag="M54" >
+
+      <Links  Pnt0="68_70P:2"  Pnt1="68SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M54" />
+
+      <Routes  M="M54_M50 M54_M52" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2056"  Tag="M56" >
+
+      <Links  Pnt0="68_70P:1"  Pnt1="70SP:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M56" />
+
+      <Routes  M="M56_M62 M56_M64" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2058"  Tag="M58" >
+
+      <Links  Pnt0="4BP:2"  Pnt1="60:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M58" />
+
+      <Routes  M="M58_M46" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2060"  Tag="M60" >
+
+      <Links  Pnt0="5BP:2"  Pnt1="60:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M60" />
+
+      <Routes  M="M60_M46" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2062"  Tag="M62" >
+
+      <Links  Pnt0="8P:2"  Pnt1="70:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M62" />
+
+      <Routes  M="M62_M56" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2064"  Tag="M64" >
+
+      <Links  Pnt0="9P:2"  Pnt1="70:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M64" />
+
+      <Routes  M="M64_M56" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2066"  Tag="M66" >
+
+      <Links  Pnt0="6BP:2"  Pnt1="66:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M66" />
+
+      <Routes  M="M66_M46" />
+
+    </TObj>
+
+    <TObj  Type="SvMan" Id="2068"  Tag="M68" >
+
+      <Links  Pnt0="7BP:2"  Pnt1="66:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="M68" />
+
+      <Routes  M="M68_M46" />
+
+    </TObj>

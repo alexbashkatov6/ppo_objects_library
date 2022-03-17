@@ -1,0 +1,242 @@
+
+    <!-- Приемо-отправочные пути -->
+
+    <TObj  Type="Put" Id="4201"  Tag="1P" >
+
+      <Links  Pnt1="CH1:0"  Pnt2="NM1:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="1P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4202"  Tag="2P" >
+
+      <Links  Pnt1="CH2:0"  Pnt2="NM2:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="2P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4203"  Tag="3P" >
+
+      <Links  Pnt1="CH3:0"  Pnt2="NM3:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="3P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4204"  Tag="4AP" >
+
+      <Links  Pnt1="CH4:0"  Pnt2="M5:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="4AP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4304"  Tag="4BP" >
+
+      <Links  Pnt1="M13:0"  Pnt2="M58:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="4BP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4205"  Tag="5AP" >
+
+      <Links  Pnt1="5AT:0"  Pnt2="M7:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="5AP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4305"  Tag="5BP" >
+
+      <Links  Pnt1="M15:0"  Pnt2="M60:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="5BP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4206"  Tag="6AP" >
+
+      <Links  Pnt1="6AT:0"  Pnt2="M9:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="6AP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4306"  Tag="6BP" >
+
+      <Links  Pnt1="M17:0"  Pnt2="M66:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="6BP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4207"  Tag="7AP" >
+
+      <Links  Pnt1="CH7:0"  Pnt2="M11:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="7AP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4307"  Tag="7BP" >
+
+      <Links  Pnt1="M19:0"  Pnt2="M68:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="7BP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4208"  Tag="8P" >
+
+      <Links  Pnt1="CH8:0"  Pnt2="M62:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="8P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4209"  Tag="9P" >
+
+      <Links  Pnt1="CH9:0"  Pnt2="M64:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="9P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4210"  Tag="10P" >
+
+      <Links  Pnt1="CH10:0"  Pnt2="M21:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="10P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4211"  Tag="11P" >
+
+      <Links  Pnt1="M23:0"  Pnt2="11T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="11P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4212"  Tag="12P" >
+
+      <Links  Pnt1="M25:0"  Pnt2="12T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="12P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4213"  Tag="13P" >
+
+      <Links  Pnt1="M31:0"  Pnt2="13T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="13P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4214"  Tag="14P" >
+
+      <Links  Pnt1="M33:0"  Pnt2="14T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="14P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4215"  Tag="15P" >
+
+      <Links  Pnt1="M27:0"  Pnt2="15T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="15P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4216"  Tag="16P" >
+
+      <Links  Pnt1="M29:0"  Pnt2="16T:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="16P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4222"  Tag="22P" >
+
+      <Links  Pnt1="M32:0"  Pnt2="M28:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="22P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4223"  Tag="23AP" >
+
+      <Links  Pnt1="CHM23:0"  Pnt2="M36:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="23AP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4323"  Tag="23BP" >
+
+      <Links  Pnt1="M34:0"  Pnt2="M30:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="23BP" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4224"  Tag="24P" >
+
+      <Links  Pnt1="CHM24:0"  Pnt2="M26:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="24P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4225"  Tag="25P" >
+
+      <Links  Pnt1="CHM25:0"  Pnt2="M20:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="25P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4226"  Tag="26P" >
+
+      <Links  Pnt1="CHM26:0"  Pnt2="M10:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="26P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4227"  Tag="27P" >
+
+      <Links  Pnt1="CHM27:0"  Pnt2="M16:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="27P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4228"  Tag="28P" >
+
+      <Links  Pnt1="CHM28:0"  Pnt2="M18:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="28P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4229"  Tag="29P" >
+
+      <Links  Pnt1="CHM29:0"  Pnt2="M12:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="29P" />
+
+    </TObj>
+
+    <TObj  Type="Put" Id="4230"  Tag="30P" >
+
+      <Links  Pnt1="CHM30:0"  Pnt2="M14:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="30P" />
+
+    </TObj>

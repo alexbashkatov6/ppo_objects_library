@@ -1,0 +1,269 @@
+
+    <!-- Входные сигналы -->
+
+    <TObj  Type="SvEnt" Id="1100"  Tag="N" >
+
+      <Links  Pnt0="IIGP:0"  Pnt1="NAP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="N" />
+
+      <Routes  P="N_CH1 N_CH2 N_CH3" />
+
+    </TObj>
+
+    <!-- Выходные сигналы -->
+
+    <TObj  Type="SvOut" Id="1101"  Tag="NM1" >
+
+      <Links  Pnt0="1P:2"  Pnt1="64SP:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="NM1" />
+
+      <Routes  P="NM1_CHM23 NM1_CHM24 NM1_CHM25 NM1_CHM26 NM1_CHM27 NM1_CHM28 NM1_CHM29 NM1_CHM30 NM1_V1_CHM23 NM1_V1_CHM24 NM1_V1_CHM25 NM1_V1_CHM26 NM1_V1_CHM27 NM1_V1_CHM28 NM1_V1_CHM29 NM1_V1_CHM30 NM1_V2_CHM23 NM1_V2_CHM24 NM1_V2_CHM25 NM1_V2_CHM26 NM1_V2_CHM27 NM1_V2_CHM28 NM1_V2_CHM29 NM1_V2_CHM30"
+               M="NM1_M46 NM1_M48 NM1_V1_M48" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1102"  Tag="NM2" >
+
+      <Links  Pnt0="2P:2"  Pnt1="62:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="NM2" />
+
+      <Routes  P="NM2_CHM23 NM2_CHM24 NM2_CHM25 NM2_CHM26 NM2_CHM27 NM2_CHM28 NM2_CHM29 NM2_CHM30 NM2_V2_CHM23 NM2_V2_CHM24 NM2_V2_CHM25 NM2_V2_CHM26 NM2_V2_CHM27 NM2_V2_CHM28 NM2_V2_CHM29 NM2_V2_CHM30"
+               M="NM2_M46 NM2_M48" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1103"  Tag="NM3" >
+
+      <Links  Pnt0="3P:2"  Pnt1="54:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="NM3" />
+
+      <Routes  P="NM3_CHM23 NM3_CHM24 NM3_CHM25 NM3_CHM26 NM3_CHM27 NM3_CHM28 NM3_CHM29 NM3_CHM30 NM3_V2_CHM23 NM3_V2_CHM24 NM3_V2_CHM25 NM3_V2_CHM26 NM3_V2_CHM27 NM3_V2_CHM28 NM3_V2_CHM29 NM3_V2_CHM30"
+               M="NM3_M46 NM3_M48" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1201"  Tag="CH1" >
+
+      <Links  Pnt0="1P:1"  Pnt1="7:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH1" />
+
+      <Routes  P="CH1_N"  M="CH1_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1202"  Tag="CH2" >
+
+      <Links  Pnt0="2P:1"  Pnt1="7:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH2" />
+
+      <Routes  P="CH2_N"  M="CH2_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1203"  Tag="CH3" >
+
+      <Links  Pnt0="3P:1"  Pnt1="9:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH3" />
+
+      <Routes  P="CH3_N"  M="CH3_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1204"  Tag="CH4" >
+
+      <Links  Pnt0="4AP:1"  Pnt1="9:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH4" />
+
+      <Routes  P="CH4_N"  M="CH4_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1207"  Tag="CH7" >
+
+      <Links  Pnt0="7AP:1"  Pnt1="13:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH7" />
+
+      <Routes  P="CH7_N"  M="CH7_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1208"  Tag="CH8" >
+
+      <Links  Pnt0="8P:1"  Pnt1="13:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH8" />
+
+      <Routes  P="CH8_N"  M="CH8_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1209"  Tag="CH9" >
+
+      <Links  Pnt0="9P:1"  Pnt1="23:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH9" />
+
+      <Routes  P="CH9_N"  M="CH9_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1210"  Tag="CH10" >
+
+      <Links  Pnt0="10P:1"  Pnt1="23:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CH10" />
+
+      <Routes  P="CH10_N"  M="CH10_M1" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1223"  Tag="CHM23" >
+
+      <Links  Pnt0="23AP:1"  Pnt1="30:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM23" />
+
+      <Str  TObj="+24" />
+
+      <StartUP  TObj="23BP" /> <StartOM  TObj="23BP" />
+
+      <Routes  P="CHM23_NM1 CHM23_V1_NM1 CHM23_V2_NM1 CHM23_NM2 CHM23_V2_NM2 CHM23_NM3 CHM23_V2_NM3"
+               M="CHM23_M40 CHM23_M42 CHM23_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1224"  Tag="CHM24" >
+
+      <Links  Pnt0="24P:1"  Pnt1="30:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM24" />
+
+      <Routes  P="CHM24_NM1 CHM24_V1_NM1 CHM24_V2_NM1 CHM24_NM2 CHM24_V2_NM2 CHM24_NM3 CHM24_V2_NM3"
+               M="CHM24_M40 CHM24_M42 CHM24_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1225"  Tag="CHM25" >
+
+      <Links  Pnt0="25P:1"  Pnt1="28:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM25" />
+
+      <Routes  P="CHM25_NM1 CHM25_V1_NM1 CHM25_V2_NM1 CHM25_NM2 CHM25_V2_NM2 CHM25_NM3 CHM25_V2_NM3"
+               M="CHM25_M40 CHM25_M42 CHM25_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1226"  Tag="CHM26" >
+
+      <Links  Pnt0="26P:1"  Pnt1="26:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM26" />
+
+      <Routes  P="CHM26_NM1 CHM26_V1_NM1 CHM26_V2_NM1 CHM26_NM2 CHM26_V2_NM2 CHM26_NM3 CHM26_V2_NM3"
+               M="CHM26_M40 CHM26_M42 CHM26_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1227"  Tag="CHM27" >
+
+      <Links  Pnt0="27P:1"  Pnt1="26:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM27" />
+
+      <Routes  P="CHM27_NM1 CHM27_V1_NM1 CHM27_V2_NM1 CHM27_NM2 CHM27_V2_NM2 CHM27_NM3 CHM27_V2_NM3"
+               M="CHM27_M40 CHM27_M42 CHM27_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1228"  Tag="CHM28" >
+
+      <Links  Pnt0="28P:1"  Pnt1="36:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM28" />
+
+      <Routes  P="CHM28_NM1 CHM28_V1_NM1 CHM28_V2_NM1 CHM28_NM2 CHM28_V2_NM2 CHM28_NM3 CHM28_V2_NM3"
+               M="CHM28_M40 CHM28_M42 CHM28_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1229"  Tag="CHM29" >
+
+      <Links  Pnt0="29P:1"  Pnt1="32:1" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM29" />
+
+      <Routes  P="CHM29_NM1 CHM29_V1_NM1 CHM29_V2_NM1 CHM29_NM2 CHM29_V2_NM2 CHM29_NM3 CHM29_V2_NM3"
+               M="CHM29_M38 CHM29_M40 CHM29_M42 CHM29_M44" />
+
+    </TObj>
+
+    <TObj  Type="SvOut" Id="1230"  Tag="CHM30" >
+
+      <Links  Pnt0="30P:1"  Pnt1="32:2" />
+
+      <RU TObj="ULTRAMAR" /> <Sv IObj="CHM30" />
+
+      <Routes  P="CHM30_NM1 CHM30_V1_NM1 CHM30_V2_NM1 CHM30_NM2 CHM30_V2_NM2 CHM30_NM3 CHM30_V2_NM3"
+               M="CHM30_M38 CHM30_M40 CHM30_M42 CHM30_M44" />
+
+    </TObj>
+
+    <!-- Повторительные сигналы -->
+
+    <TObj  Type="SvPv" Id="1211"  Tag="PCH1" >
+
+      <Sv IObj="PCH1" />  <MainSv TObj="CH1" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1212"  Tag="PCH2" >
+
+      <Sv IObj="PCH2" />  <MainSv TObj="CH2" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1213"  Tag="PCH3" >
+
+      <Sv IObj="PCH3" />  <MainSv TObj="CH3" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1214"  Tag="PCH4" >
+
+      <Sv IObj="PCH4" />  <MainSv TObj="CH4" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1217"  Tag="PCH7" >
+
+      <Sv IObj="PCH7" />  <MainSv TObj="CH7" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1218"  Tag="PCH8" >
+
+      <Sv IObj="PCH8" />  <MainSv TObj="CH8" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1219"  Tag="PCH9" >
+
+      <Sv IObj="PCH9" />  <MainSv TObj="CH9" />
+
+    </TObj>
+
+    <TObj  Type="SvPv" Id="1220"  Tag="PCH10" >
+
+      <Sv IObj="PCH10" />  <MainSv TObj="CH10" />
+
+    </TObj>

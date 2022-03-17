@@ -1,0 +1,320 @@
+
+    <!-- Район очистки стрелок -->
+
+    <TObj Type="ROS" Id="6000"  Tag="ROS" >
+
+      <KOS  IObj="KOS"  />
+
+      <RU   TObj="ULTRAMAR" />
+
+      <EPK  TObj="EPK_1 EPK_2 EPK_3 EPK_4 EPK_5 EPK_6 EPK_7 EPK_8 EPK_9 EPK_10 EPK_12 EPK_13 EPK_14 EPK_15 EPK_16 EPK_17 EPK_18 EPK_19 EPK_20 EPK_21 EPK_22 EPK_23 EPK_24 EPK_25 EPK_26 EPK_27 EPK_28 EPK_29 EPK_30 EPK_31 EPK_32 EPK_33 EPK_34 EPK_36 EPK_38 EPK_40 EPK_42 EPK_44 EPK_46 EPK_48 EPK_50 EPK_52 EPK_54 EPK_56 EPK_58 EPK_60 EPK_62 EPK_64 EPK_66 EPK_68 EPK_70" />
+
+    </TObj>
+
+    <!-- Электропневматические клапаны (ЭПК) -->
+
+    <TObj  Type="EPK" Id="6001"  Tag="EPK_1" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_1" /> <Str TObj="1" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6002"  Tag="EPK_2" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_2" /> <Str TObj="2" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6003"  Tag="EPK_3" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_3" /> <Str TObj="3" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6004"  Tag="EPK_4" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_4" /> <Str TObj="4" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6005"  Tag="EPK_5" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_5" /> <Str TObj="5" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6006"  Tag="EPK_6" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_6" /> <Str TObj="6" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6007"  Tag="EPK_7" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_7" /> <Str TObj="7" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6008"  Tag="EPK_8" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_8" /> <Str TObj="8" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6009"  Tag="EPK_9" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_9" /> <Str TObj="9" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6010"  Tag="EPK_10" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_10" /> <Str TObj="10" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6012"  Tag="EPK_12" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_12" /> <Str TObj="12" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6013"  Tag="EPK_13" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_13" /> <Str TObj="13" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6014"  Tag="EPK_14" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_14" /> <Str TObj="14" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6015"  Tag="EPK_15" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_15" /> <Str TObj="15" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6016"  Tag="EPK_16" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_16" /> <Str TObj="16" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6017"  Tag="EPK_17" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_17" /> <Str TObj="17" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6018"  Tag="EPK_18" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_18" /> <Str TObj="18" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6019"  Tag="EPK_19" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_19" /> <Str TObj="19" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6020"  Tag="EPK_20" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_20" /> <Str TObj="20" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6021"  Tag="EPK_21" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_21" /> <Str TObj="21" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6022"  Tag="EPK_22" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_22" /> <Str TObj="22" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6023"  Tag="EPK_23" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_23" /> <Str TObj="23" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6024"  Tag="EPK_24" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_24" /> <Str TObj="24" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6025"  Tag="EPK_25" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_25" /> <Str TObj="25" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6026"  Tag="EPK_26" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_26" /> <Str TObj="26" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6027"  Tag="EPK_27" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_27" /> <Str TObj="27" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6028"  Tag="EPK_28" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_28" /> <Str TObj="28" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6029"  Tag="EPK_29" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_29" /> <Str TObj="29" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6030"  Tag="EPK_30" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_30" /> <Str TObj="30" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6031"  Tag="EPK_31" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_31" /> <Str TObj="31" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6032"  Tag="EPK_32" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_32" /> <Str TObj="32" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6033"  Tag="EPK_33" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_33" /> <Str TObj="33" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6034"  Tag="EPK_34" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_34" /> <Str TObj="34" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6036"  Tag="EPK_36" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_36" /> <Str TObj="36" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6038"  Tag="EPK_38" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_38" /> <Str TObj="38" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6040"  Tag="EPK_40" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_40" /> <Str TObj="40" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6042"  Tag="EPK_42" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_42" /> <Str TObj="42" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6044"  Tag="EPK_44" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_44" /> <Str TObj="44" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6046"  Tag="EPK_46" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_46" /> <Str TObj="46" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6048"  Tag="EPK_48" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_48" /> <Str TObj="48" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6050"  Tag="EPK_50" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_50" /> <Str TObj="50" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6052"  Tag="EPK_52" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_52" /> <Str TObj="52" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6054"  Tag="EPK_54" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_54" /> <Str TObj="54" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6056"  Tag="EPK_56" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_56" /> <Str TObj="56" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6058"  Tag="EPK_58" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_58" /> <Str TObj="58" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6060"  Tag="EPK_60" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_60" /> <Str TObj="60" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6062"  Tag="EPK_62" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_62" /> <Str TObj="62" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6064"  Tag="EPK_64" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_64" /> <Str TObj="64" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6066"  Tag="EPK_66" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_66" /> <Str TObj="66" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6068"  Tag="EPK_68" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_68" /> <Str TObj="68" />
+
+    </TObj>
+
+    <TObj  Type="EPK" Id="6070"  Tag="EPK_70" >
+
+      <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_70" /> <Str TObj="70" />
+
+    </TObj>

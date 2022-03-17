@@ -1,0 +1,18 @@
+
+    <!-- Øêàôû ÓÑÎ ÁÊ -->
+
+    <IObj Type="USOBK_Crate"    Tag="Cabinet02_Crate1" > <USOBK_Cabinet  IObj="Cabinet02" /> <BST  IObj="1 5 9 13 19_21"  /> </IObj>
+    <IObj Type="USOBK_Crate"    Tag="Cabinet02_Crate2" > <USOBK_Cabinet  IObj="Cabinet02" /> <BST  IObj="3 7 23 15_17 25" /> </IObj>
+    <IObj Type="USOBK_Cabinet"  Tag="Cabinet02" >        <USOBK_Crate    IObj="Cabinet02_Crate1 Cabinet02_Crate2" />         </IObj>
+
+    <IObj Type="USOBK_Crate"    Tag="Cabinet03_Crate1" > <USOBK_Cabinet  IObj="Cabinet03" /> <BST  IObj="27 31 42 32" /> </IObj>
+    <IObj Type="USOBK_Crate"    Tag="Cabinet03_Crate2" > <USOBK_Cabinet  IObj="Cabinet03" /> <BST  IObj="29 33 48"    /> </IObj>
+    <IObj Type="USOBK_Cabinet"  Tag="Cabinet03" >        <USOBK_Crate    IObj="Cabinet03_Crate1 Cabinet03_Crate2" />     </IObj>
+
+    <IObj Type="USOBK_Crate"    Tag="Cabinet04_Crate1" > <USOBK_Cabinet  IObj="Cabinet04" /> <BST  IObj="2 6 10 14_16 20 24 28" /> </IObj>
+    <IObj Type="USOBK_Crate"    Tag="Cabinet04_Crate2" > <USOBK_Cabinet  IObj="Cabinet04" /> <BST  IObj="4 8 12 18 22 26 30"    /> </IObj>
+    <IObj Type="USOBK_Cabinet"  Tag="Cabinet04" >        <USOBK_Crate    IObj="Cabinet04_Crate1 Cabinet04_Crate2" />               </IObj>
+
+    <IObj Type="USOBK_Crate"    Tag="Cabinet05_Crate1" > <USOBK_Cabinet  IObj="Cabinet05" /> <BST  IObj="34_36 44_46 50_52 58 66 70" /> </IObj>
+    <IObj Type="USOBK_Crate"    Tag="Cabinet05_Crate2" > <USOBK_Cabinet  IObj="Cabinet05" /> <BST  IObj="38_40 54 62_64 60 68 56"    /> </IObj>
+    <IObj Type="USOBK_Cabinet"  Tag="Cabinet05" >        <USOBK_Crate    IObj="Cabinet05_Crate1 Cabinet05_Crate2" />                    </IObj>

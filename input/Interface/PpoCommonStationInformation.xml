@@ -1,0 +1,82 @@
+
+    <!-- Режим "День/Ночь/ДСН" -->
+
+    <IObj Type="DN"  Tag="DN" >
+
+      <AddrKI  DSN="#1" DN="1:1:10" />
+
+      <AddrUI  DSN="#0" DN="1:1:4"  ASV="1:1:5" />
+
+    </IObj>
+
+    <!-- Электропитающая установка -->
+
+    <IObj Type="KSU_EPU"  Tag="KSU_EPU_SCHVP" >
+
+      <!-- Sig: КВЩ, Sig2: КВЫЩ. -->
+
+      <AddrKI  Sig="2" Sig2="4" />
+
+    </IObj>
+
+    <IObj Type="KSU_EPU"  Tag="KSU_EPU_VUF1" >
+
+      <!-- Sig: А1, Sig2: ВФ1. -->
+
+      <AddrKI  Sig="6" Sig2="12" />
+
+    </IObj>
+
+    <IObj Type="KSU_EPU"  Tag="KSU_EPU_VUF2" >
+
+      <!-- Sig: А2, Sig2: ВФ2. -->
+
+      <AddrKI  Sig="8" Sig2="14" />
+
+    </IObj>
+
+    <IObj Type="KSU_EPU"  Tag="KSU_EPU_APU" >
+
+      <AddrKI  Sig="18" />
+
+    </IObj>
+
+    <!-- Контроль перегорания предохранителей -->
+
+    <IObj Type="TS"  Tag="OSI_KPA" > <AddrKI  In="1:1:3" /> </IObj>
+
+    <!-- Контроль исправности устройств кодирования -->
+
+    <IObj Type="TS"  Tag="OSI_APK" > <AddrKI  In="1:1:4" /> </IObj>
+
+    <!-- Контроль сопротивления изоляции -->
+
+    <IObj Type="KSIZ"  Tag="KSIZ" > <AddrKI  OK="1:1:5" /> </IObj>
+
+    <!-- Контроль вводно-защитного устройства -->
+
+    <IObj Type="TS"  Tag="OSI_KVZU" > <AddrKI  In="1:1:6" /> </IObj>
+
+    <!-- Контроль тока перевода стрелок -->
+
+    <IObj Type="KTPS"  Tag="KTPS" > <AddrKI  KTPS="#0" /> </IObj>
+
+    <!-- Макет стрелок -->
+
+    <IObj Type="TU"  Tag="KB" > <AddrUI  Out="1:1:3" /> </IObj>
+
+    <!-- Пожаро-охранная сигнализация -->
+
+    <IObj Type="TS"  Tag="POS_PT" >
+
+      <!-- In: ПТ, In1: НПТ. -->
+
+      <AddrKI  In="1:1:8" In1="1:1:7" />
+
+    </IObj>
+
+    <IObj Type="TS"  Tag="POS_VS" >
+
+      <AddrKI  In="1:1:9" />
+
+    </IObj>

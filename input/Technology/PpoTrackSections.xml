@@ -1,0 +1,66 @@
+
+    <!-- Участки пути -->
+
+    <TObj  Type="Uch" Id="4100"  Tag="NAP" >
+
+      <Links  Pnt1="N:1"  Pnt2="M1:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="NAP" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4110"  Tag="10_12P" >
+
+      <Links  Pnt1="M22:0"  Pnt2="M6:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="10_12P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4112"  Tag="12_14P" >
+
+      <Links  Pnt1="M24:0"  Pnt2="M8:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="12_14P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4132"  Tag="32_68P" >
+
+      <Links  Pnt1="M52:0"  Pnt2="M38:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="32_68P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4140"  Tag="40_56P" >
+
+      <Links  Pnt1="M48:0"  Pnt2="M40:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="40_56P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4150"  Tag="46_50P" >
+
+      <Links  Pnt1="M46:0"  Pnt2="M42:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="46_50P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4168"  Tag="46_68P" >
+
+      <Links  Pnt1="M50:0"  Pnt2="M44:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="46_68P" />
+
+    </TObj>
+
+    <TObj  Type="Uch" Id="4170"  Tag="68_70P" >
+
+      <Links  Pnt1="M56:0"  Pnt2="M54:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="68_70P" />
+
+    </TObj>

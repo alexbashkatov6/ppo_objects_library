@@ -1,0 +1,184 @@
+
+    <!-- Маневровые маршруты -->
+
+    <M Tag="M1_M3" > <End  TObj="M3" /> <Str  TObj="+1" /> </M>
+
+    <M Tag="M1_CH7"  > <End  TObj="CH7 M11"  /> <Str  TObj="-1 +3 +13" /> </M>
+    <M Tag="M1_CH8"  > <End  TObj="CH8 M62"  /> <Str  TObj="-1 +3 -13" /> </M>
+    <M Tag="M1_CH9"  > <End  TObj="CH9 M64"  /> <Str  TObj="-1 -3 +23" /> </M>
+    <M Tag="M1_CH10" > <End  TObj="CH10 M21" /> <Str  TObj="-1 -3 -23" /> </M>
+
+    <M Tag="M3_CH1"  > <End  TObj="CH1 NM1" /> <Str  TObj="+5 -7" /> </M>
+    <M Tag="M3_CH2"  > <End  TObj="CH2 NM2" /> <Str  TObj="+5 +7" /> </M>
+    <M Tag="M3_CH3"  > <End  TObj="CH3 NM3" /> <Str  TObj="-5 -9" /> </M>
+    <M Tag="M3_CH4"  > <End  TObj="CH4 M5"  /> <Str  TObj="-5 +9" /> </M>
+
+    <M Tag="M5_M13"  > <End  TObj="M13 M58" /> <Str  TObj="+15"     /> </M>
+    <M Tag="M7_M13"  > <End  TObj="M13 M58" /> <Str  TObj="-15 -17" /> </M>
+    <M Tag="M7_M15"  > <End  TObj="M15 M60" /> <Str  TObj="+17"     /> </M>
+    <M Tag="M9_M17"  > <End  TObj="M17 M66" /> <Str  TObj="+19"     /> </M>
+    <M Tag="M9_M19"  > <End  TObj="M19 M68" /> <Str  TObj="-19 -21" /> </M>
+    <M Tag="M11_M19" > <End  TObj="M19 M68" /> <Str  TObj="+21"     /> </M>
+    <M Tag="M13_M5"  > <End  TObj="M5 CH4"  /> <Str  TObj="+15"     /> </M>
+    <M Tag="M13_M7"  > <End  TObj="M7"      /> <Str  TObj="-15 -17" /> </M>
+    <M Tag="M15_M7"  > <End  TObj="M7"      /> <Str  TObj="+17"     /> </M>
+    <M Tag="M17_M9"  > <End  TObj="M9"      /> <Str  TObj="+19"     /> </M>
+    <M Tag="M19_M9"  > <End  TObj="M9"      /> <Str  TObj="-19 -21" /> </M>
+    <M Tag="M19_M11" > <End  TObj="M11 CH7" /> <Str  TObj="+21"     /> </M>
+
+    <M Tag="M21_M23" > <End  TObj="M23" /> <Str  TObj="+25 +29"     /> </M>
+    <M Tag="M21_M25" > <End  TObj="M25" /> <Str  TObj="+25 -29"     /> </M>
+    <M Tag="M21_M27" > <End  TObj="M27" /> <Str  TObj="-25 -27 -31" /> </M>
+    <M Tag="M21_M29" > <End  TObj="M29" /> <Str  TObj="-25 -27 +31" /> </M>
+    <M Tag="M21_M31" > <End  TObj="M31" /> <Str  TObj="-25 +27 -33" /> </M>
+    <M Tag="M21_M33" > <End  TObj="M33" /> <Str  TObj="-25 +27 +33" /> </M>
+
+    <M Tag="M23_M21" > <End  TObj="M21 CH10" /> <Str  TObj="+25 +29"     /> </M>
+    <M Tag="M25_M21" > <End  TObj="M21 CH10" /> <Str  TObj="+25 -29"     /> </M>
+    <M Tag="M27_M21" > <End  TObj="M21 CH10" /> <Str  TObj="-25 -27 -31" /> </M>
+    <M Tag="M29_M21" > <End  TObj="M21 CH10" /> <Str  TObj="-25 -27 +31" /> </M>
+    <M Tag="M31_M21" > <End  TObj="M21 CH10" /> <Str  TObj="-25 +27 -33" /> </M>
+    <M Tag="M33_M21" > <End  TObj="M21 CH10" /> <Str  TObj="-25 +27 +33" /> </M>
+
+    <M Tag="M2_M6" > <End  TObj="M6 M22" /> <Str  TObj="+12" /> </M>
+    <M Tag="M2_M8" > <End  TObj="M8 M24" /> <Str  TObj="-12" /> </M>
+
+    <M Tag="M4_M10" > <End  TObj="M10 CHM26" /> <Str  TObj="-2 -4"               /> </M>
+    <M Tag="M4_M12" > <End  TObj="M12 CHM29" /> <Str  TObj="+2 -18 +20"          /> </M>
+    <M Tag="M4_M14" > <End  TObj="M14 CHM30" /> <Str  TObj="+2 -18 -20"          /> </M>
+    <M Tag="M4_M16" > <End  TObj="M16 CHM27" /> <Str  TObj="+2 +18 +22"          /> </M>
+    <M Tag="M4_M18" > <End  TObj="M18 CHM28" /> <Str  TObj="+2 +18 -22"          /> </M>
+    <M Tag="M4_M20" > <End  TObj="M20 CHM25" /> <Str  TObj="-2 +4 -6"            /> </M>
+    <M Tag="M4_M26" > <End  TObj="M26 CHM24" /> <Str  TObj="-2 +4 +6 -8"         /> </M>
+    <M Tag="M4_M30" > <End  TObj="M30 M34"   /> <Str  TObj="-2 +4 +6 +8 -10 +16" /> </M>
+
+    <M Tag="M6_M2" > <End  TObj="M2" /> <Str  TObj="+12" /> </M>
+    <M Tag="M8_M2" > <End  TObj="M2" /> <Str  TObj="-12" /> </M>
+
+    <M Tag="M10_M4" > <End  TObj="M4" /> <Str  TObj="-2 -4"               /> </M>
+    <M Tag="M12_M4" > <End  TObj="M4" /> <Str  TObj="+2 -18 +20"          /> </M>
+    <M Tag="M14_M4" > <End  TObj="M4" /> <Str  TObj="+2 -18 -20"          /> </M>
+    <M Tag="M16_M4" > <End  TObj="M4" /> <Str  TObj="+2 +18 +22"          /> </M>
+    <M Tag="M18_M4" > <End  TObj="M4" /> <Str  TObj="+2 +18 -22"          /> </M>
+    <M Tag="M20_M4" > <End  TObj="M4" /> <Str  TObj="-2 +4 -6"            /> </M>
+    <M Tag="M26_M4" > <End  TObj="M4" /> <Str  TObj="-2 +4 +6 -8"         /> </M>
+    <M Tag="M30_M4" > <End  TObj="M4" /> <Str  TObj="-2 +4 +6 +8 -10 +16" /> </M>
+
+    <M Tag="M22_M30" > <End  TObj="M30 M34" /> <Str  TObj="+10 +16" /> </M>
+    <M Tag="M24_M30" > <End  TObj="M30 M34" /> <Str  TObj="-14 -16" /> </M>
+    <M Tag="M24_M28" > <End  TObj="M28 M32" /> <Str  TObj="+14"     /> </M>
+    <M Tag="M28_M24" > <End  TObj="M24 M8"  /> <Str  TObj="+14"     /> </M>
+    <M Tag="M30_M22" > <End  TObj="M22 M6"  /> <Str  TObj="+10 +16" /> </M>
+    <M Tag="M30_M24" > <End  TObj="M24 M8"  /> <Str  TObj="-14 -16" /> </M>
+
+    <M Tag="M32_M36" > <End  TObj="M36 CHM23" /> <Str  TObj="-24" /> </M>
+    <M Tag="M34_M36" > <End  TObj="M36 CHM23" /> <Str  TObj="+24" /> </M>
+    <M Tag="M36_M32" > <End  TObj="M32 M28"   /> <Str  TObj="-24" /> </M>
+    <M Tag="M36_M34" > <End  TObj="M34 M30"   /> <Str  TObj="+24" /> </M>
+
+    <M Tag="M38_CHM29" > <End  TObj="CHM29 M12" /> <Str  TObj="+32 +34" /> </M>
+    <M Tag="M38_CHM30" > <End  TObj="CHM30 M14" /> <Str  TObj="-32 +34" /> </M>
+
+    <M Tag="M40_CHM23" > <End  TObj="CHM23 M36" /> <Str  TObj="-30 +40 -42 +44"             /> </M>
+    <M Tag="M40_CHM24" > <End  TObj="CHM24 M26" /> <Str  TObj="+30 +40 -42 +44"             /> </M>
+    <M Tag="M40_CHM25" > <End  TObj="CHM25 M20" /> <Str  TObj="-28 +40 +42 +44"             /> </M>
+    <M Tag="M40_CHM26" > <End  TObj="CHM26 M10" /> <Str  TObj="-26 +28 +40 +42 +44"         /> </M>
+    <M Tag="M40_CHM27" > <End  TObj="CHM27 M16" /> <Str  TObj="+26 +28 +40 +42 +44"         /> </M>
+    <M Tag="M40_CHM28" > <End  TObj="CHM28 M18" /> <Str  TObj="+36 -38 -40 +44 +46"         /> </M>
+    <M Tag="M40_CHM29" > <End  TObj="CHM29 M12" /> <Str  TObj="+32 -34 -36 -38 -40 +44 +46" /> </M>
+    <M Tag="M40_CHM30" > <End  TObj="CHM30 M14" /> <Str  TObj="-32 -34 -36 -38 -40 +44 +46" /> </M>
+
+    <M Tag="M42_CHM23" > <End  TObj="CHM23 M36" /> <Str  TObj="-30 +38 +40 -42 -44 -46 +48"     /> </M>
+    <M Tag="M42_CHM24" > <End  TObj="CHM24 M26" /> <Str  TObj="+30 +38 +40 -42 -44 -46 +48"     /> </M>
+    <M Tag="M42_CHM25" > <End  TObj="CHM25 M20" /> <Str  TObj="-28 +38 +40 +42 -44 -46 +48"     /> </M>
+    <M Tag="M42_CHM26" > <End  TObj="CHM26 M10" /> <Str  TObj="-26 +28 +38 +40 +42 -44 -46 +48" /> </M>
+    <M Tag="M42_CHM27" > <End  TObj="CHM27 M16" /> <Str  TObj="+26 +28 +38 +40 +42 -44 -46 +48" /> </M>
+    <M Tag="M42_CHM28" > <End  TObj="CHM28 M18" /> <Str  TObj="+36 +38 +46 +48"                 /> </M>
+    <M Tag="M42_CHM29" > <End  TObj="CHM29 M12" /> <Str  TObj="+32 -34 -36 +38 +46 +48"         /> </M>
+    <M Tag="M42_CHM30" > <End  TObj="CHM30 M14" /> <Str  TObj="-32 -34 -36 +38 +46 +48"         /> </M>
+
+    <M Tag="M44_CHM23" > <End  TObj="CHM23 M36" /> <Str  TObj="-30 +38 +40 -42 -44 -46 -48"     /> </M>
+    <M Tag="M44_CHM24" > <End  TObj="CHM24 M26" /> <Str  TObj="+30 +38 +40 -42 -44 -46 -48"     /> </M>
+    <M Tag="M44_CHM25" > <End  TObj="CHM25 M20" /> <Str  TObj="-28 +38 +40 +42 -44 -46 -48"     /> </M>
+    <M Tag="M44_CHM26" > <End  TObj="CHM26 M10" /> <Str  TObj="-26 +28 +38 +40 +42 -44 -46 -48" /> </M>
+    <M Tag="M44_CHM27" > <End  TObj="CHM27 M16" /> <Str  TObj="+26 +28 +38 +40 +42 -44 -46 -48" /> </M>
+    <M Tag="M44_CHM28" > <End  TObj="CHM28 M18" /> <Str  TObj="+36 +38 +46 -48"                 /> </M>
+    <M Tag="M44_CHM29" > <End  TObj="CHM29 M12" /> <Str  TObj="+32 -34 -36 +38 +46 -48"         /> </M>
+    <M Tag="M44_CHM30" > <End  TObj="CHM30 M14" /> <Str  TObj="-32 -34 -36 +38 +46 -48"         /> </M>
+
+    <M Tag="M46_NM1" > <End  TObj="NM1 CH1" /> <Str  TObj="-50 -52 -54 -62 -64" /> </M>
+    <M Tag="M46_NM2" > <End  TObj="NM2 CH2" /> <Str  TObj="-50 -52 -54 +62"     /> </M>
+    <M Tag="M46_NM3" > <End  TObj="NM3 CH3" /> <Str  TObj="-50 -52 +54"         /> </M>
+    <M Tag="M46_M58" > <End  TObj="M58 M13" /> <Str  TObj="+50 +58 +60"         /> </M>
+    <M Tag="M46_M60" > <End  TObj="M60 M15" /> <Str  TObj="+50 +58 -60"         /> </M>
+    <M Tag="M46_M66" > <End  TObj="M66 M17" /> <Str  TObj="+50 -58 -66"         /> </M>
+    <M Tag="M46_M68" > <End  TObj="M68 M19" /> <Str  TObj="+50 -58 +66"         /> </M>
+
+    <M Tag="M48_NM1" > <End  TObj="NM1 CH1" /> <Str  TObj="-56 +64"         /> </M>
+    <M Tag="M48_NM2" > <End  TObj="NM2 CH2" /> <Str  TObj="+52 -54 +56 +62" /> </M>
+    <M Tag="M48_NM3" > <End  TObj="NM3 CH3" /> <Str  TObj="+52 +54 +56"     /> </M>
+
+    <M Tag="M48_V1_NM1" > <Var  TObj="V1" /> <End  TObj="NM1 CH1" /> <Str  TObj="+52 -54 +56 -62 -64" /> </M>
+
+    <M Tag="M58_M46" > <End  TObj="M46 M42" /> <Str  TObj="+50 +58 +60" /> </M>
+    <M Tag="M60_M46" > <End  TObj="M46 M42" /> <Str  TObj="+50 +58 -60" /> </M>
+    <M Tag="M66_M46" > <End  TObj="M46 M42" /> <Str  TObj="+50 -58 -66" /> </M>
+    <M Tag="M68_M46" > <End  TObj="M46 M42" /> <Str  TObj="+50 -58 +66" /> </M>
+
+    <M Tag="M50_M54" > <End  TObj="M54 M56" /> <Str  TObj="+68" /> </M>
+    <M Tag="M52_M54" > <End  TObj="M54 M56" /> <Str  TObj="-68" /> </M>
+    <M Tag="M54_M50" > <End  TObj="M50 M44" /> <Str  TObj="+68" /> </M>
+    <M Tag="M54_M52" > <End  TObj="M52 M38" /> <Str  TObj="-68" /> </M>
+    <M Tag="M56_M62" > <End  TObj="M62 CH8" /> <Str  TObj="-70" /> </M>
+    <M Tag="M56_M64" > <End  TObj="M64 CH9" /> <Str  TObj="+70" /> </M>
+    <M Tag="M62_M56" > <End  TObj="M56 M54" /> <Str  TObj="-70" /> </M>
+    <M Tag="M64_M56" > <End  TObj="M56 M54" /> <Str  TObj="+70" /> </M>
+
+    <M Tag="NM1_M46" > <End  TObj="M46 M42" /> <Str  TObj="-50 -52 -54 -62 -64" /> </M>
+    <M Tag="NM2_M46" > <End  TObj="M46 M42" /> <Str  TObj="-50 -52 -54 +62"     /> </M>
+    <M Tag="NM3_M46" > <End  TObj="M46 M42" /> <Str  TObj="-50 -52 +54"         /> </M>
+
+    <M Tag="NM1_M48" > <End  TObj="M48 M40" /> <Str  TObj="-56 +64"         /> </M>
+    <M Tag="NM2_M48" > <End  TObj="M48 M40" /> <Str  TObj="+52 -54 +56 +62" /> </M>
+    <M Tag="NM3_M48" > <End  TObj="M48 M40" /> <Str  TObj="+52 +54 +56"     /> </M>
+
+    <M Tag="NM1_V1_M48" > <Var  TObj="V1" /> <End  TObj="M48 M40" /> <Str  TObj="+52 -54 +56 -62 -64" /> </M>
+
+    <M Tag="CH1_M1"  > <End  TObj="M1 M3" /> <Str  TObj="+1 +5 -7"  /> </M>
+    <M Tag="CH2_M1"  > <End  TObj="M1 M3" /> <Str  TObj="+1 +5 +7"  /> </M>
+    <M Tag="CH3_M1"  > <End  TObj="M1 M3" /> <Str  TObj="+1 -5 -9"  /> </M>
+    <M Tag="CH4_M1"  > <End  TObj="M1 M3" /> <Str  TObj="+1 -5 +9"  /> </M>
+    <M Tag="CH7_M1"  > <End  TObj="M1"    /> <Str  TObj="-1 +3 +13" /> </M>
+    <M Tag="CH8_M1"  > <End  TObj="M1"    /> <Str  TObj="-1 +3 -13" /> </M>
+    <M Tag="CH9_M1"  > <End  TObj="M1"    /> <Str  TObj="-1 -3 +23" /> </M>
+    <M Tag="CH10_M1" > <End  TObj="M1"    /> <Str  TObj="-1 -3 -23" /> </M>
+
+    <M Tag="CHM29_M38" > <End  TObj="M38 M52" /> <Str  TObj="+32 +34" /> </M>
+    <M Tag="CHM30_M38" > <End  TObj="M38 M52" /> <Str  TObj="-32 +34" /> </M>
+
+    <M Tag="CHM23_M40" > <End  TObj="M40 M48" /> <Str  TObj="-30 +40 -42 +44"             /> </M>
+    <M Tag="CHM24_M40" > <End  TObj="M40 M48" /> <Str  TObj="+30 +40 -42 +44"             /> </M>
+    <M Tag="CHM25_M40" > <End  TObj="M40 M48" /> <Str  TObj="-28 +40 +42 +44"             /> </M>
+    <M Tag="CHM26_M40" > <End  TObj="M40 M48" /> <Str  TObj="-26 +28 +40 +42 +44"         /> </M>
+    <M Tag="CHM27_M40" > <End  TObj="M40 M48" /> <Str  TObj="+26 +28 +40 +42 +44"         /> </M>
+    <M Tag="CHM28_M40" > <End  TObj="M40 M48" /> <Str  TObj="+36 -38 -40 +44 +46"         /> </M>
+    <M Tag="CHM29_M40" > <End  TObj="M40 M48" /> <Str  TObj="+32 -34 -36 -38 -40 +44 +46" /> </M>
+    <M Tag="CHM30_M40" > <End  TObj="M40 M48" /> <Str  TObj="-32 -34 -36 -38 -40 +44 +46" /> </M>
+
+    <M Tag="CHM23_M42" > <End  TObj="M42 M46" /> <Str  TObj="-30 +38 +40 -42 -44 -46 +48"     /> </M>
+    <M Tag="CHM24_M42" > <End  TObj="M42 M46" /> <Str  TObj="+30 +38 +40 -42 -44 -46 +48"     /> </M>
+    <M Tag="CHM25_M42" > <End  TObj="M42 M46" /> <Str  TObj="-28 +38 +40 +42 -44 -46 +48"     /> </M>
+    <M Tag="CHM26_M42" > <End  TObj="M42 M46" /> <Str  TObj="-26 +28 +38 +40 +42 -44 -46 +48" /> </M>
+    <M Tag="CHM27_M42" > <End  TObj="M42 M46" /> <Str  TObj="+26 +28 +38 +40 +42 -44 -46 +48" /> </M>
+    <M Tag="CHM28_M42" > <End  TObj="M42 M46" /> <Str  TObj="+36 +38 +46 +48"                 /> </M>
+    <M Tag="CHM29_M42" > <End  TObj="M42 M46" /> <Str  TObj="+32 -34 -36 +38 +46 +48"         /> </M>
+    <M Tag="CHM30_M42" > <End  TObj="M42 M46" /> <Str  TObj="-32 -34 -36 +38 +46 +48"         /> </M>
+
+    <M Tag="CHM23_M44" > <End  TObj="M44 M50" /> <Str  TObj="-30 +38 +40 -42 -44 -46 -48"     /> </M>
+    <M Tag="CHM24_M44" > <End  TObj="M44 M50" /> <Str  TObj="+30 +38 +40 -42 -44 -46 -48"     /> </M>
+    <M Tag="CHM25_M44" > <End  TObj="M44 M50" /> <Str  TObj="-28 +38 +40 +42 -44 -46 -48"     /> </M>
+    <M Tag="CHM26_M44" > <End  TObj="M44 M50" /> <Str  TObj="-26 +28 +38 +40 +42 -44 -46 -48" /> </M>
+    <M Tag="CHM27_M44" > <End  TObj="M44 M50" /> <Str  TObj="+26 +28 +38 +40 +42 -44 -46 -48" /> </M>
+    <M Tag="CHM28_M44" > <End  TObj="M44 M50" /> <Str  TObj="+36 +38 +46 -48"                 /> </M>
+    <M Tag="CHM29_M44" > <End  TObj="M44 M50" /> <Str  TObj="+32 -34 -36 +38 +46 -48"         /> </M>
+    <M Tag="CHM30_M44" > <End  TObj="M44 M50" /> <Str  TObj="-32 -34 -36 +38 +46 -48"         /> </M>

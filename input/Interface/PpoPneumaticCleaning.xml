@@ -1,0 +1,58 @@
+
+    <!-- Компрессор очистки стрелок -->
+
+    <IObj Type="KOS"  Tag="KOS" > <AddrKI  RD="1:1:27" /> <AddrUI  OSV="1:1:25" RDP="1:1:26" RDO="1:1:27" /> </IObj>
+
+    <!-- Электропневматические клапаны (ЭПК) очистки стрелок -->
+
+    <IObj Type="EPK"  Tag="EPK_1"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31" VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_3"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31" VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_5"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31" VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_7"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31" VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_9"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31" VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_13" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31" VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_15" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31" VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_17" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31"              VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_19" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31"              VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_21" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31"              VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_23" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31" VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_25" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31"              VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_27" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31"                           VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_29" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31"                           VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_31" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30" VS3="1:1:31"                                        /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_33" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30" VS3="1:1:31"                                        /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_2"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"              VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_4"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"              VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_6"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"              VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_8"  > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"              VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_10" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"              VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_12" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"              VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_14" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"              VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_16" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"              VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_18" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"                           VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_20" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"                           VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_22" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"                           VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_24" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"                           VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_26" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"                                        VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_28" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"                                        VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_30" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29" VS2="1:1:30"                                                     /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_32" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"              VS2="1:1:30"                                                     /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_34" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31" VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_36" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31" VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_38" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31" VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_40" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31" VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_42" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31" VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_44" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31" VS4="1:1:32"              VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_46" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31" VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_48" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31" VS4="1:1:32"                           /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_50" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31"              VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_52" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31"              VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_54" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31"              VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_56" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31"              VS5="1:1:33"              /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_58" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31"                           VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_60" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31"                           VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_62" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"              VS3="1:1:31"                                        /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_64" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                           VS3="1:1:31"                                        /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_66" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"                           VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_68" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                                        VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
+    <IObj Type="EPK"  Tag="EPK_70" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"                           VS4="1:1:32" VS5="1:1:33"              /> </IObj>

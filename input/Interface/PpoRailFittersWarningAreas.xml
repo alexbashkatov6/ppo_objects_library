@@ -1,0 +1,74 @@
+
+    <!-- Зоны оповещение монтеров пути -->
+
+    <IObj Type="OM"   Tag="OM1_1"  > <AddrKI  KNM="1:1:21" /> <AddrUI   OM="1:1:14" /> <RRM  IObj="RRM1_1" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_1" >                          <AddrUI  RRM="1:1:13" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM1_2"  > <AddrKI  KNM="1:1:22" /> <AddrUI   OM="1:1:16" /> <RRM  IObj="RRM1_2" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_2" >                          <AddrUI  RRM="1:1:15" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM1_3"  > <AddrKI  KNM="1:1:23" /> <AddrUI   OM="1:1:18" /> <RRM  IObj="RRM1_3" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_3" >                          <AddrUI  RRM="1:1:17" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM1_4"  > <AddrKI  KNM="1:1:24" /> <AddrUI   OM="1:1:20" /> <RRM  IObj="RRM1_4" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_4" >                          <AddrUI  RRM="1:1:19" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM1_5"  > <AddrKI  KNM="1:1:25" /> <AddrUI   OM="1:1:22" /> <RRM  IObj="RRM1_5" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_5" >                          <AddrUI  RRM="1:1:21" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM1_6"  > <AddrKI  KNM="1:1:26" /> <AddrUI   OM="1:1:24" /> <RRM  IObj="RRM1_6" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM1_6" >                          <AddrUI  RRM="1:1:23" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_1"  > <AddrKI  KNM="1:2:1"  /> <AddrUI   OM="1:2:2"  /> <RRM  IObj="RRM2_1" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_1" >                          <AddrUI  RRM="1:2:1"  />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_2"  > <AddrKI  KNM="1:2:2"  /> <AddrUI   OM="1:2:4"  /> <RRM  IObj="RRM2_2" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_2" >                          <AddrUI  RRM="1:2:3"  />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_3"  > <AddrKI  KNM="1:2:3"  /> <AddrUI   OM="1:2:6"  /> <RRM  IObj="RRM2_3" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_3" >                          <AddrUI  RRM="1:2:5"  />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_4"  > <AddrKI  KNM="1:2:4"  /> <AddrUI   OM="1:2:8"  /> <RRM  IObj="RRM2_4" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_4" >                          <AddrUI  RRM="1:2:7"  />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_5"  > <AddrKI  KNM="1:2:5"  /> <AddrUI   OM="1:2:10" /> <RRM  IObj="RRM2_5" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_5" >                          <AddrUI  RRM="1:2:9"  />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_6"  > <AddrKI  KNM="1:2:6"  /> <AddrUI   OM="1:2:12" /> <RRM  IObj="RRM2_6" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_6" >                          <AddrUI  RRM="1:2:11" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM2_7"  > <AddrKI  KNM="1:2:7"  /> <AddrUI   OM="1:2:14" /> <RRM  IObj="RRM2_7" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM2_7" >                          <AddrUI  RRM="1:2:13" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM3_1"  > <AddrKI  KNM="1:2:8"  /> <AddrUI   OM="1:2:16" /> <RRM  IObj="RRM3_1" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM3_1" >                          <AddrUI  RRM="1:2:15" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM3_2"  > <AddrKI  KNM="1:2:9"  /> <AddrUI   OM="1:2:18" /> <RRM  IObj="RRM3_2" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM3_2" >                          <AddrUI  RRM="1:2:17" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM3_3"  > <AddrKI  KNM="1:2:10" /> <AddrUI   OM="1:2:20" /> <RRM  IObj="RRM3_3" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM3_3" >                          <AddrUI  RRM="1:2:19" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM3_4"  > <AddrKI  KNM="1:2:11" /> <AddrUI   OM="1:2:22" /> <RRM  IObj="RRM3_4" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM3_4" >                          <AddrUI  RRM="1:2:21" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_1"  > <AddrKI  KNM="1:2:12" /> <AddrUI   OM="1:2:24" /> <RRM  IObj="RRM4_1" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_1" >                          <AddrUI  RRM="1:2:23" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_2"  > <AddrKI  KNM="1:2:13" /> <AddrUI   OM="1:2:26" /> <RRM  IObj="RRM4_2" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_2" >                          <AddrUI  RRM="1:2:25" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_3"  > <AddrKI  KNM="1:2:14" /> <AddrUI   OM="1:2:28" /> <RRM  IObj="RRM4_3" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_3" >                          <AddrUI  RRM="1:2:27" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_4"  > <AddrKI  KNM="1:2:15" /> <AddrUI   OM="1:2:30" /> <RRM  IObj="RRM4_4" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_4" >                          <AddrUI  RRM="1:2:29" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_5"  > <AddrKI  KNM="1:2:16" /> <AddrUI   OM="1:2:32" /> <RRM  IObj="RRM4_5" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_5" >                          <AddrUI  RRM="1:2:31" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_6"  > <AddrKI  KNM="1:2:17" /> <AddrUI   OM="1:2:34" /> <RRM  IObj="RRM4_6" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_6" >                          <AddrUI  RRM="1:2:33" />                        </IObj>
+
+    <IObj Type="OM"   Tag="OM4_7"  > <AddrKI  KNM="1:2:18" /> <AddrUI   OM="1:2:36" /> <RRM  IObj="RRM4_7" /> </IObj>
+    <IObj Type="RRM"  Tag="RRM4_7" >                          <AddrUI  RRM="1:2:35" />                        </IObj>

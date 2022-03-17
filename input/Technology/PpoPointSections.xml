@@ -1,0 +1,250 @@
+
+    <!-- Стрелочные секции -->
+
+    <TObj  Type="Sek" Id="4001"  Tag="1SP" >
+
+      <Links  Pnt1="M1:1"  Pnt2="1:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="1SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4002"  Tag="2_22SP" >
+
+      <Links  Pnt1="2:0"  Pnt2="M4:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="2_22SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4003"  Tag="3SP" >
+
+      <Links  Pnt1="1:2"  Pnt2="3:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="3SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4004"  Tag="4SP" >
+
+      <Links  Pnt1="4:0"  Pnt2="2:2" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="4SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4005"  Tag="5SP" >
+
+      <Links  Pnt1="M3:1"  Pnt2="5:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="5SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4006"  Tag="6_8SP" >
+
+      <Links  Pnt1="6:0"  Pnt2="4:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="6_8SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4007"  Tag="7SP" >
+
+      <Links  Pnt1="5:1"  Pnt2="7:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="7SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4009"  Tag="9SP" >
+
+      <Links  Pnt1="5:2"  Pnt2="9:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="9SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4010"  Tag="10_16SP" >
+
+      <Links  Pnt1="M30:1"  Pnt2="16:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="10_16SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4012"  Tag="12SP" >
+
+      <Links  Pnt1="12:0"  Pnt2="M2:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="12SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4013"  Tag="13SP" >
+
+      <Links  Pnt1="3:1"  Pnt2="13:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="13SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4014"  Tag="14SP" >
+
+      <Links  Pnt1="14:0"  Pnt2="M24:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="14SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4015"  Tag="15SP" >
+
+      <Links  Pnt1="15:0"  Pnt2="M13:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="15SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4017"  Tag="17SP" >
+
+      <Links  Pnt1="M7:1"  Pnt2="17:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="17SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4019"  Tag="19SP" >
+
+      <Links  Pnt1="M9:1"  Pnt2="19:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="19SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4021"  Tag="21SP" >
+
+      <Links  Pnt1="21:0"  Pnt2="M19:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="21SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4023"  Tag="23SP" >
+
+      <Links  Pnt1="3:2"  Pnt2="23:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="23SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4024"  Tag="24SP" >
+
+      <Links  Pnt1="M36:1"  Pnt2="24:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="24SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4025"  Tag="25_33SP" >
+
+      <Links  Pnt1="M21:1"  Pnt2="25:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="25_33SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4026"  Tag="26_28SP" >
+
+      <Links  Pnt1="42:1"  Pnt2="28:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="26_28SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4030"  Tag="30SP" >
+
+      <Links  Pnt1="42:2"  Pnt2="30:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="30SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4032"  Tag="32_34SP" >
+
+      <Links  Pnt1="34:0"  Pnt2="32:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="32_34SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4036"  Tag="36_48SP" >
+
+      <Links  Pnt1="38:0"  Pnt2="46:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="36_48SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4040"  Tag="40_44SP" >
+
+      <Links  Pnt1="44:0"  Pnt2="40:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="40_44SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4050"  Tag="50_66SP" >
+
+      <Links  Pnt1="50:0"  Pnt2="M46:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="50_66SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4052"  Tag="52_54SP" >
+
+      <Links  Pnt1="54:0"  Pnt2="52:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="52_54SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4056"  Tag="56SP" >
+
+      <Links  Pnt1="56:0"  Pnt2="M48:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="56SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4062"  Tag="62SP" >
+
+      <Links  Pnt1="62:0"  Pnt2="54:2" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="62SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4064"  Tag="64SP" >
+
+      <Links  Pnt1="NM1:1"  Pnt2="64:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="64SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4068"  Tag="68SP" >
+
+      <Links  Pnt1="M54:1"  Pnt2="68:0" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="68SP" />
+
+    </TObj>
+
+    <TObj  Type="Sek" Id="4070"  Tag="70SP" >
+
+      <Links  Pnt1="70:0"  Pnt2="M56:1" />
+
+      <RU TObj="ULTRAMAR" /> <PU IObj="70SP" />
+
+    </TObj>

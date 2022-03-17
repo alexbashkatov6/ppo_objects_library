@@ -1,0 +1,43 @@
+[
+    {
+        "class": "PpoPoint",
+        "tag": "1",
+        "data": {
+            "id": "",
+            "indent": "34",
+            "idControlArea": "",
+            "iObjTag": "",
+            "pointsMonitoring": "",
+            "section": "",
+            "railFittersWarningArea": "",
+            "guardPlusPlus": [],
+            "guardPlusMinus": [],
+            "guardMinusPlus": [],
+            "guardMinusMinus": [],
+            "lockingPlus": [],
+            "lockingMinus": [],
+            "additionalSwitch": [
+                {
+                    "point": "1",
+                    "selfPosition": "+",
+                    "dependencePosition": "+"
+                },
+                {
+                    "point": "3",
+                    "selfPosition": "-",
+                    "dependencePosition": "-"
+                }
+            ],
+            "pairPoint": "",
+            "oversizedPlus": [],
+            "oversizedMinus": [],
+            "additionalGuardLock": [
+                {
+                    "section": "1SP",
+                    "point": "3",
+                    "position": "+"
+                }
+            ]
+        }
+    }
+]
