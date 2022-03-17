@@ -3,11 +3,11 @@
         "class": "PpoPoint",
         "tag": "1",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "1",
+            "indent": "1",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "1",
+            "pointsMonitoring": "STRELKI",
             "section": "1SP",
             "railFittersWarningArea": "OM1_1",
             "oversizedPlus": [
@@ -26,11 +26,11 @@
         "class": "PpoPoint",
         "tag": "2",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "2",
+            "indent": "2",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "2",
+            "pointsMonitoring": "STRELKI",
             "section": "2_22SP",
             "railFittersWarningArea": "OM2_1",
             "oversizedPlus": [
@@ -44,11 +44,11 @@
         "class": "PpoPoint",
         "tag": "3",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "3",
+            "indent": "3",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "3",
+            "pointsMonitoring": "STRELKI",
             "section": "3SP",
             "railFittersWarningArea": "OM1_1",
             "oversizedPlus": [
@@ -67,11 +67,11 @@
         "class": "PpoPoint",
         "tag": "4",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "4",
+            "indent": "4",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "4",
+            "pointsMonitoring": "STRELKI",
             "section": "4SP",
             "railFittersWarningArea": "OM2_2",
             "oversizedMinus": [
@@ -85,11 +85,11 @@
         "class": "PpoPoint",
         "tag": "5",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "5",
+            "indent": "5",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "5",
+            "pointsMonitoring": "STRELKI",
             "section": "5SP",
             "railFittersWarningArea": "OM1_2",
             "oversizedPlus": [
@@ -108,11 +108,11 @@
         "class": "PpoPoint",
         "tag": "6",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "6",
+            "indent": "6",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "6",
+            "pointsMonitoring": "STRELKI",
             "section": "6_8SP",
             "railFittersWarningArea": "OM2_2"
         }
@@ -121,11 +121,11 @@
         "class": "PpoPoint",
         "tag": "7",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "7",
+            "indent": "7",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "7",
+            "pointsMonitoring": "STRELKI",
             "section": "7SP",
             "railFittersWarningArea": "OM1_2"
         }
@@ -134,11 +134,11 @@
         "class": "PpoPoint",
         "tag": "8",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "8",
+            "indent": "8",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "8",
+            "pointsMonitoring": "STRELKI",
             "section": "6_8SP",
             "railFittersWarningArea": "OM2_2"
         }
@@ -147,11 +147,11 @@
         "class": "PpoPoint",
         "tag": "9",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "9",
+            "indent": "9",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "9",
+            "pointsMonitoring": "STRELKI",
             "section": "9SP",
             "railFittersWarningArea": "OM1_3"
         }
@@ -160,11 +160,11 @@
         "class": "PpoPoint",
         "tag": "10",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "10",
+            "indent": "10",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "10",
+            "pointsMonitoring": "STRELKI",
             "section": "10_16SP",
             "railFittersWarningArea": "OM2_3"
         }
@@ -173,11 +173,11 @@
         "class": "PpoPoint",
         "tag": "12",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "12",
+            "indent": "12",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "12",
+            "pointsMonitoring": "STRELKI",
             "section": "12SP",
             "railFittersWarningArea": "OM2_4"
         }
@@ -186,11 +186,11 @@
         "class": "PpoPoint",
         "tag": "13",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "13",
+            "indent": "13",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "13",
+            "pointsMonitoring": "STRELKI",
             "section": "13SP",
             "railFittersWarningArea": "OM1_1"
         }
@@ -199,11 +199,11 @@
         "class": "PpoPoint",
         "tag": "14",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "14",
+            "indent": "14",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "14",
+            "pointsMonitoring": "STRELKI",
             "section": "14SP",
             "railFittersWarningArea": "OM2_5"
         }
@@ -212,11 +212,11 @@
         "class": "PpoPoint",
         "tag": "15",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "15",
+            "indent": "15",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "15",
+            "pointsMonitoring": "STRELKI",
             "section": "15SP",
             "railFittersWarningArea": "OM1_5"
         }
@@ -225,11 +225,11 @@
         "class": "PpoPoint",
         "tag": "16",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "16",
+            "indent": "16",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "16",
+            "pointsMonitoring": "STRELKI",
             "section": "10_16SP",
             "railFittersWarningArea": "OM2_3"
         }
@@ -238,11 +238,11 @@
         "class": "PpoPoint",
         "tag": "17",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "17",
+            "indent": "17",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "17",
+            "pointsMonitoring": "STRELKI",
             "section": "17SP",
             "railFittersWarningArea": "OM1_5"
         }
@@ -251,11 +251,11 @@
         "class": "PpoPoint",
         "tag": "18",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "18",
+            "indent": "18",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "18",
+            "pointsMonitoring": "STRELKI",
             "section": "2_22SP",
             "railFittersWarningArea": "OM2_1"
         }
@@ -264,11 +264,11 @@
         "class": "PpoPoint",
         "tag": "19",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "19",
+            "indent": "19",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "19",
+            "pointsMonitoring": "STRELKI",
             "section": "19SP",
             "railFittersWarningArea": "OM1_6"
         }
@@ -277,11 +277,11 @@
         "class": "PpoPoint",
         "tag": "20",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "20",
+            "indent": "20",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "20",
+            "pointsMonitoring": "STRELKI",
             "section": "2_22SP",
             "railFittersWarningArea": "OM2_1"
         }
@@ -290,11 +290,11 @@
         "class": "PpoPoint",
         "tag": "21",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "21",
+            "indent": "21",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "21",
+            "pointsMonitoring": "STRELKI",
             "section": "21SP",
             "railFittersWarningArea": "OM1_6"
         }
@@ -303,11 +303,11 @@
         "class": "PpoPoint",
         "tag": "22",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "22",
+            "indent": "22",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "22",
+            "pointsMonitoring": "STRELKI",
             "section": "2_22SP",
             "railFittersWarningArea": "OM2_1"
         }
@@ -316,11 +316,11 @@
         "class": "PpoPoint",
         "tag": "23",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "23",
+            "indent": "23",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "23",
+            "pointsMonitoring": "STRELKI",
             "section": "23SP",
             "railFittersWarningArea": "OM1_3"
         }
@@ -329,11 +329,11 @@
         "class": "PpoPoint",
         "tag": "24",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "24",
+            "indent": "24",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "24",
+            "pointsMonitoring": "STRELKI",
             "section": "24SP",
             "railFittersWarningArea": "OM2_6"
         }
@@ -342,11 +342,11 @@
         "class": "PpoPoint",
         "tag": "25",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "25",
+            "indent": "25",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "25",
+            "pointsMonitoring": "STRELKI",
             "section": "25_33SP",
             "railFittersWarningArea": "OM3_1"
         }
@@ -355,11 +355,11 @@
         "class": "PpoPoint",
         "tag": "26",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "26",
+            "indent": "26",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "26",
+            "pointsMonitoring": "STRELKI",
             "section": "26_28SP",
             "railFittersWarningArea": "OM4_1"
         }
@@ -368,11 +368,11 @@
         "class": "PpoPoint",
         "tag": "27",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "27",
+            "indent": "27",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "27",
+            "pointsMonitoring": "STRELKI",
             "section": "25_33SP",
             "railFittersWarningArea": "OM3_1"
         }
@@ -381,11 +381,11 @@
         "class": "PpoPoint",
         "tag": "28",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "28",
+            "indent": "28",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "28",
+            "pointsMonitoring": "STRELKI",
             "section": "26_28SP",
             "railFittersWarningArea": "OM4_1"
         }
@@ -394,11 +394,11 @@
         "class": "PpoPoint",
         "tag": "29",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "29",
+            "indent": "29",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "29",
+            "pointsMonitoring": "STRELKI",
             "section": "25_33SP",
             "railFittersWarningArea": "OM3_1"
         }
@@ -407,11 +407,11 @@
         "class": "PpoPoint",
         "tag": "30",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "30",
+            "indent": "30",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "30",
+            "pointsMonitoring": "STRELKI",
             "section": "30SP",
             "railFittersWarningArea": "OM4_1"
         }
@@ -420,11 +420,11 @@
         "class": "PpoPoint",
         "tag": "31",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "31",
+            "indent": "31",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "31",
+            "pointsMonitoring": "STRELKI",
             "section": "25_33SP",
             "railFittersWarningArea": "OM3_1"
         }
@@ -433,11 +433,11 @@
         "class": "PpoPoint",
         "tag": "32",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "32",
+            "indent": "32",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "32",
+            "pointsMonitoring": "STRELKI",
             "section": "32_34SP",
             "railFittersWarningArea": "OM4_2"
         }
@@ -446,11 +446,11 @@
         "class": "PpoPoint",
         "tag": "33",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "33",
+            "indent": "33",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "33",
+            "pointsMonitoring": "STRELKI",
             "section": "25_33SP",
             "railFittersWarningArea": "OM3_1"
         }
@@ -459,11 +459,11 @@
         "class": "PpoPoint",
         "tag": "34",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "34",
+            "indent": "34",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "34",
+            "pointsMonitoring": "STRELKI",
             "section": "32_34SP",
             "railFittersWarningArea": "OM4_2"
         }
@@ -472,11 +472,11 @@
         "class": "PpoPoint",
         "tag": "36",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "36",
+            "indent": "36",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "36",
+            "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
             "railFittersWarningArea": "OM4_3"
         }
@@ -485,11 +485,11 @@
         "class": "PpoPoint",
         "tag": "38",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "38",
+            "indent": "38",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "38",
+            "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
             "railFittersWarningArea": "OM4_3"
         }
@@ -498,11 +498,11 @@
         "class": "PpoPoint",
         "tag": "40",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "40",
+            "indent": "40",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "40",
+            "pointsMonitoring": "STRELKI",
             "section": "40_44SP",
             "railFittersWarningArea": "OM4_4"
         }
@@ -511,11 +511,11 @@
         "class": "PpoPoint",
         "tag": "42",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "42",
+            "indent": "42",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "42",
+            "pointsMonitoring": "STRELKI",
             "section": "40_44SP",
             "railFittersWarningArea": "OM4_4",
             "oversizedPlus": [
@@ -534,11 +534,11 @@
         "class": "PpoPoint",
         "tag": "44",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "44",
+            "indent": "44",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "44",
+            "pointsMonitoring": "STRELKI",
             "section": "40_44SP",
             "railFittersWarningArea": "OM4_4"
         }
@@ -547,11 +547,11 @@
         "class": "PpoPoint",
         "tag": "46",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "46",
+            "indent": "46",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "46",
+            "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
             "railFittersWarningArea": "OM4_3"
         }
@@ -560,11 +560,11 @@
         "class": "PpoPoint",
         "tag": "48",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "48",
+            "indent": "48",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "48",
+            "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
             "railFittersWarningArea": "OM4_3"
         }
@@ -573,11 +573,11 @@
         "class": "PpoPoint",
         "tag": "50",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "50",
+            "indent": "50",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "50",
+            "pointsMonitoring": "STRELKI",
             "section": "50_66SP",
             "railFittersWarningArea": "OM4_5"
         }
@@ -586,11 +586,11 @@
         "class": "PpoPoint",
         "tag": "52",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "52",
+            "indent": "52",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "52",
+            "pointsMonitoring": "STRELKI",
             "section": "52_54SP",
             "railFittersWarningArea": "OM4_6"
         }
@@ -599,11 +599,11 @@
         "class": "PpoPoint",
         "tag": "54",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "54",
+            "indent": "54",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "54",
+            "pointsMonitoring": "STRELKI",
             "section": "52_54SP",
             "railFittersWarningArea": "OM4_6"
         }
@@ -612,11 +612,11 @@
         "class": "PpoPoint",
         "tag": "56",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "56",
+            "indent": "56",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "56",
+            "pointsMonitoring": "STRELKI",
             "section": "56SP",
             "railFittersWarningArea": "OM4_6",
             "oversizedMinus": [
@@ -632,11 +632,11 @@
         "class": "PpoPoint",
         "tag": "58",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "58",
+            "indent": "58",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "58",
+            "pointsMonitoring": "STRELKI",
             "section": "50_66SP",
             "railFittersWarningArea": "OM4_5"
         }
@@ -645,11 +645,11 @@
         "class": "PpoPoint",
         "tag": "60",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "60",
+            "indent": "60",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "60",
+            "pointsMonitoring": "STRELKI",
             "section": "50_66SP",
             "railFittersWarningArea": "OM4_5"
         }
@@ -658,11 +658,11 @@
         "class": "PpoPoint",
         "tag": "62",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "62",
+            "indent": "62",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "62",
+            "pointsMonitoring": "STRELKI",
             "section": "62SP",
             "railFittersWarningArea": "OM4_6"
         }
@@ -671,11 +671,11 @@
         "class": "PpoPoint",
         "tag": "64",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "64",
+            "indent": "64",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "64",
+            "pointsMonitoring": "STRELKI",
             "section": "64SP",
             "railFittersWarningArea": "OM4_6"
         }
@@ -684,11 +684,11 @@
         "class": "PpoPoint",
         "tag": "66",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "66",
+            "indent": "66",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "66",
+            "pointsMonitoring": "STRELKI",
             "section": "50_66SP",
             "railFittersWarningArea": "OM4_5"
         }
@@ -697,11 +697,11 @@
         "class": "PpoPoint",
         "tag": "68",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "68",
+            "indent": "68",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "68",
+            "pointsMonitoring": "STRELKI",
             "section": "68SP",
             "railFittersWarningArea": "OM4_7"
         }
@@ -710,11 +710,11 @@
         "class": "PpoPoint",
         "tag": "70",
         "data": {
-            "id": "",
-            "indent": "",
+            "id": "70",
+            "indent": "70",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "",
-            "pointsMonitoring": "",
+            "iObjTag": "70",
+            "pointsMonitoring": "STRELKI",
             "section": "70SP",
             "railFittersWarningArea": "OM4_7"
         }

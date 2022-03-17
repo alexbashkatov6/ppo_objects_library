@@ -15,6 +15,10 @@ for elem in points_et.getroot():
     new_obj = PpoPoint()
 
     new_obj.tag = elem.attrib['Tag']
+    new_obj.id_ = elem.attrib['Tag']
+    new_obj.indent = elem.attrib['Tag']
+    new_obj.iObjTag = elem.attrib['Tag']
+    new_obj.pointsMonitoring = "STRELKI"
     new_obj.idControlArea = elem.find("RU").attrib['TObj']
     new_obj.section = elem.find("Sek").attrib['TObj']
     new_obj.railFittersWarningArea = elem.find("MP").attrib['TObj']

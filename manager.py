@@ -43,7 +43,6 @@ class Manager:
         return False
 
     def extract_obj_attribs(self, obj: PpoObject) -> OrderedDict:
-        print("obj", obj.tag)
         cls = obj.__class__
         cls_name = cls.__name__
         attr_names = self.get_attrib_names(cls_name)  # [attr_name for attr_name in cls.__dict__ if not attr_name.startswith("__")]
@@ -54,8 +53,6 @@ class Manager:
                 in_dict_attr_name = PYTHON_KEYWORD_REPLACES[attr_name]
             descr = getattr(cls, attr_name)
             value = getattr(obj, attr_name)
-            # print("descr.value_set", descr.value_set)
-            print("descr.is_required", descr.is_required)
             # if (not descr.value_set) and (not descr.is_required):
             if (not self.value_is_meaningful(value)) and (not descr.is_required):
                 continue
