@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Приемо-отправочные пути -->
 
+<Main>
     <TObj  Type="Put" Id="4201"  Tag="1P" >
 
       <Links  Pnt1="CH1:0"  Pnt2="NM1:0" />
@@ -240,3 +241,4 @@
       <RU TObj="ULTRAMAR" /> <PU IObj="30P" />
 
     </TObj>
+</Main>

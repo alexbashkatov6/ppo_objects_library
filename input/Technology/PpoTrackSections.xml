@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Участки пути -->
 
+<Main>
     <TObj  Type="Uch" Id="4100"  Tag="NAP" >
 
       <Links  Pnt1="N:1"  Pnt2="M1:0" />
@@ -64,3 +65,4 @@
       <RU TObj="ULTRAMAR" /> <PU IObj="68_70P" />
 
     </TObj>
+</Main>

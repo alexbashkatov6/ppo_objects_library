@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Тупики и пути необщего пользования -->
 
+<Main>
     <TObj  Type="Tpk" Id="4192"  Tag="M2P" >
 
       <Links  Pnt0="M2:0" />
@@ -64,3 +65,4 @@
       <Links  Pnt0="16P:2" />
 
     </TObj>
+</Main>

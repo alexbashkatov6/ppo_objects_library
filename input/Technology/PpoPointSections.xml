@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Стрелочные секции -->
 
+<Main>
     <TObj  Type="Sek" Id="4001"  Tag="1SP" >
 
       <Links  Pnt1="M1:1"  Pnt2="1:0" />
@@ -248,3 +249,4 @@
       <RU TObj="ULTRAMAR" /> <PU IObj="70SP" />
 
     </TObj>
+</Main>
