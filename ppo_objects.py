@@ -29,9 +29,17 @@ class PpoTrainSignal(PpoObject):
     indent = AnyDescriptor()
     idControlArea = AnyDescriptor()
     iObjTag = AnyDescriptor()
-    routePointer = AnyDescriptor()
-    groupRoutePointers = AnyDescriptor(is_list=True)
-    uksps = AnyDescriptor()
+    routePointer = AnyDescriptor(is_required=False)
+    groupRoutePointers = AnyDescriptor(is_list=True, is_required=False)
+    uksps = AnyDescriptor(is_required=False)
+
+
+class PpoRepeatSignal(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+    signalTag = AnyDescriptor()
 
 
 class PpoShuntingSignal(PpoObject):
@@ -117,6 +125,7 @@ class NotificationPoint(PpoObject):
 
 class PpoPoint(PpoObject):
     id_ = AnyDescriptor()
+    type_ = AnyDescriptor(is_required=False)
     indent = AnyDescriptor()
     idControlArea = AnyDescriptor()
     iObjTag = AnyDescriptor()

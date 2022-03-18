@@ -1,9 +1,9 @@
 import xml.etree.ElementTree as ET
 import os
 
-from ppo_objects import PpoPoint, SectionAndIgnoreCondition, AdditionalSwitch
+from ppo_objects import PpoPoint, SectionAndIgnoreCondition
 from manager import Manager
-from constants import INPUT_FOLDER, TECHNOLOGY_FOLDER, INTERFACE_FOLDER, OUTPUT_FOLDER, PYTHON_KEYWORD_REPLACES
+from constants import INPUT_FOLDER, TECHNOLOGY_FOLDER
 
 points_et = ET.parse(os.path.join(INPUT_FOLDER, TECHNOLOGY_FOLDER, "PpoPoints.xml"))
 
@@ -18,6 +18,8 @@ for elem in points_et.getroot():
     new_obj.id_ = elem.attrib['Tag']
     new_obj.indent = elem.attrib['Tag']
     new_obj.iObjTag = elem.attrib['Tag']
+    if elem.attrib['Tag'] == "24":
+        new_obj.type_ = "2"
     new_obj.pointsMonitoring = "STRELKI"
     new_obj.idControlArea = elem.find("RU").attrib['TObj']
     new_obj.section = elem.find("Sek").attrib['TObj']

@@ -1,0 +1,290 @@
+[
+    {
+        "class": "PpoTrainSignal",
+        "tag": "N",
+        "data": {
+            "id": "N",
+            "indent": "N",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "N"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "NM1",
+        "data": {
+            "id": "NM1",
+            "indent": "NM1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "NM1"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "NM2",
+        "data": {
+            "id": "NM2",
+            "indent": "NM2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "NM2"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "NM3",
+        "data": {
+            "id": "NM3",
+            "indent": "NM3",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "NM3"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH1",
+        "data": {
+            "id": "CH1",
+            "indent": "CH1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH1"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH2",
+        "data": {
+            "id": "CH2",
+            "indent": "CH2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH2"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH3",
+        "data": {
+            "id": "CH3",
+            "indent": "CH3",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH3"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH4",
+        "data": {
+            "id": "CH4",
+            "indent": "CH4",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH4"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH7",
+        "data": {
+            "id": "CH7",
+            "indent": "CH7",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH7"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH8",
+        "data": {
+            "id": "CH8",
+            "indent": "CH8",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH8"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH9",
+        "data": {
+            "id": "CH9",
+            "indent": "CH9",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH9"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CH10",
+        "data": {
+            "id": "CH10",
+            "indent": "CH10",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CH10"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM23",
+        "data": {
+            "id": "CHM23",
+            "indent": "CHM23",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM23"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM24",
+        "data": {
+            "id": "CHM24",
+            "indent": "CHM24",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM24"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM25",
+        "data": {
+            "id": "CHM25",
+            "indent": "CHM25",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM25"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM26",
+        "data": {
+            "id": "CHM26",
+            "indent": "CHM26",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM26"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM27",
+        "data": {
+            "id": "CHM27",
+            "indent": "CHM27",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM27"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM28",
+        "data": {
+            "id": "CHM28",
+            "indent": "CHM28",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM28"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM29",
+        "data": {
+            "id": "CHM29",
+            "indent": "CHM29",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM29"
+        }
+    },
+    {
+        "class": "PpoTrainSignal",
+        "tag": "CHM30",
+        "data": {
+            "id": "CHM30",
+            "indent": "CHM30",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "CHM30"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH1",
+        "data": {
+            "id": "PCH1",
+            "indent": "PCH1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH1",
+            "signalTag": "CH1"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH2",
+        "data": {
+            "id": "PCH2",
+            "indent": "PCH2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH2",
+            "signalTag": "CH2"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH3",
+        "data": {
+            "id": "PCH3",
+            "indent": "PCH3",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH3",
+            "signalTag": "CH3"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH4",
+        "data": {
+            "id": "PCH4",
+            "indent": "PCH4",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH4",
+            "signalTag": "CH4"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH7",
+        "data": {
+            "id": "PCH7",
+            "indent": "PCH7",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH7",
+            "signalTag": "CH7"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH8",
+        "data": {
+            "id": "PCH8",
+            "indent": "PCH8",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH8",
+            "signalTag": "CH8"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH9",
+        "data": {
+            "id": "PCH9",
+            "indent": "PCH9",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH9",
+            "signalTag": "CH9"
+        }
+    },
+    {
+        "class": "PpoRepeatSignal",
+        "tag": "PCH10",
+        "data": {
+            "id": "PCH10",
+            "indent": "PCH10",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "PCH10",
+            "signalTag": "CH10"
+        }
+    }
+]

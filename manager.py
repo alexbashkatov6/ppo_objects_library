@@ -1,4 +1,5 @@
 from collections import OrderedDict
+from typing import Union
 import json
 import os
 import xlwt
@@ -10,7 +11,8 @@ from ppo_objects import PpoObject, PpoRoutePointer, PpoRoutePointerRi, PpoTrainS
     PpoTrackSection, AdditionalSwitch, SectionAndIgnoreCondition, NotificationPoint, PpoPoint, PpoControlAreaBorder, \
     PpoSemiAutomaticBlockingSystem, PpoSemiAutomaticBlockingSystemRi, PpoAutomaticBlockingSystem, \
     PpoAutomaticBlockingSystemRi, PpoTrackCrossroad, PpoTrainNotificationRi, PpoRailCrossingRi, PpoRailCrossing, \
-    PpoControlDeviceDerailmentStock, PpoControlDeviceDerailmentStockCi, PpoTrackUnit, PpoTrackReceiverRi, PpoLightSignalRi
+    PpoControlDeviceDerailmentStock, PpoControlDeviceDerailmentStockCi, PpoTrackUnit, PpoTrackReceiverRi, \
+    PpoLightSignalRi, PpoRepeatSignal
 from constants import INPUT_FOLDER, OUTPUT_FOLDER, INTERMEDIATE_IN_FOLDER, INTERMEDIATE_OUT_FOLDER, \
     PYTHON_KEYWORD_REPLACES
 
@@ -67,17 +69,20 @@ class Manager:
 
     # def make_objs_attr_odict(self, cls_name: str) -> :
 
-    def write_objs_json(self, cls_name: str, file_name: str = ""):
+    def write_objs_json(self, cls_names: Union[str, list[str]], file_name: str = ""):
+        if isinstance(cls_names, str):
+            cls_names = [cls_names]
         if not file_name:
-            file_name = cls_name
-        objs = self.ppo_objs[cls_name].values()
+            file_name = cls_names[0]
         obj_jsons = []
-        for obj in objs:
-            attr_odict = OrderedDict()
-            attr_odict["class"] = cls_name
-            attr_odict["tag"] = obj.tag
-            attr_odict["data"] = self.extract_obj_attribs(obj)
-            obj_jsons.append(attr_odict)
+        for cls_name in cls_names:
+            objs = self.ppo_objs[cls_name].values()
+            for obj in objs:
+                attr_odict = OrderedDict()
+                attr_odict["class"] = cls_name
+                attr_odict["tag"] = obj.tag
+                attr_odict["data"] = self.extract_obj_attribs(obj)
+                obj_jsons.append(attr_odict)
         with open(os.path.join(OUTPUT_FOLDER, "{}.json".format(file_name)), "w") as write_file:
             json.dump(obj_jsons, write_file, indent=4)
 

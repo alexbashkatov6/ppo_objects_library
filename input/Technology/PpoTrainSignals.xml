@@ -1,5 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Входные сигналы -->
+
+<Main>
 
     <TObj  Type="SvEnt" Id="1100"  Tag="N" >
 
@@ -267,3 +269,4 @@
       <Sv IObj="PCH10" />  <MainSv TObj="CH10" />
 
     </TObj>
+</Main>

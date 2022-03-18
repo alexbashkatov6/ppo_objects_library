@@ -387,6 +387,7 @@
         "tag": "24",
         "data": {
             "id": "24",
+            "type": "2",
             "indent": "24",
             "idControlArea": "ULTRAMAR",
             "iObjTag": "24",
