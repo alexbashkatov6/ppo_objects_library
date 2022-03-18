@@ -182,11 +182,18 @@ class Manager:
 
 
 if __name__ == "__main__":
-    m = Manager()
-    print(m.ppo_objs)
-    pss = PpoShuntingSignal("M1")
-    m.append_obj(pss)
-    m.write_objs_json("PpoShuntingSignal")
-    m.write_objs_intermediate_excel("PpoPoint")
-    m.read_objs_intermediate_excel("PpoPoint")
-    m.write_objs_json("PpoPoint")
+    test_1 = False
+    if test_1:
+        m = Manager()
+        print(m.ppo_objs)
+        pss = PpoShuntingSignal("M1")
+        m.append_obj(pss)
+        m.write_objs_json("PpoShuntingSignal")
+        m.write_objs_intermediate_excel("PpoPoint")
+        m.read_objs_intermediate_excel("PpoPoint")
+        m.write_objs_json("PpoPoint")
+
+    test_2 = True
+    if test_2:
+        m = Manager()
+        m.write_objs_intermediate_excel("PpoAutomaticBlockingSystemRi")
