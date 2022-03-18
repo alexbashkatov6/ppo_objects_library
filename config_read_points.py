@@ -22,6 +22,33 @@ for elem in points_et.getroot():
     new_obj.idControlArea = elem.find("RU").attrib['TObj']
     new_obj.section = elem.find("Sek").attrib['TObj']
     new_obj.railFittersWarningArea = elem.find("MP").attrib['TObj']
+    pair_point_el = elem.find("St2")
+    if not (pair_point_el is None):
+        new_obj.pairPoint = pair_point_el.attrib['TObj']
+    ohr_plus = elem.find("OP")
+    if not (ohr_plus is None):
+        posit = ohr_plus.attrib['TObj']
+        guard_point = posit[1:]
+        if posit[0] == "+":
+            new_obj.guardPlusPlus = [guard_point]
+        else:
+            new_obj.guardPlusMinus = [guard_point]
+    ohr_minus = elem.find("OM")
+    if not (ohr_minus is None):
+        posit = ohr_minus.attrib['TObj']
+        guard_point = posit[1:]
+        if posit[0] == "+":
+            new_obj.guardMinusPlus = [guard_point]
+        else:
+            new_obj.guardMinusMinus = [guard_point]
+    loc_plus = elem.find("ZP")
+    if not (loc_plus is None):
+        loc_sect = loc_plus.attrib['TObj']
+        new_obj.lockingPlus = [loc_sect]
+    loc_minus = elem.find("ZM")
+    if not (loc_minus is None):
+        loc_sect = loc_minus.attrib['TObj']
+        new_obj.lockingMinus = [loc_sect]
 
     ngp_elem = elem.find("NGP")
     if not (ngp_elem is None):

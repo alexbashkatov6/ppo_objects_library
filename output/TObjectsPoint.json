@@ -140,7 +140,13 @@
             "iObjTag": "8",
             "pointsMonitoring": "STRELKI",
             "section": "6_8SP",
-            "railFittersWarningArea": "OM2_2"
+            "railFittersWarningArea": "OM2_2",
+            "guardMinusPlus": [
+                "10"
+            ],
+            "lockingMinus": [
+                "10_16SP"
+            ]
         }
     },
     {
@@ -166,7 +172,13 @@
             "iObjTag": "10",
             "pointsMonitoring": "STRELKI",
             "section": "10_16SP",
-            "railFittersWarningArea": "OM2_3"
+            "railFittersWarningArea": "OM2_3",
+            "guardPlusMinus": [
+                "8"
+            ],
+            "lockingPlus": [
+                "6_8SP"
+            ]
         }
     },
     {
@@ -205,7 +217,14 @@
             "iObjTag": "14",
             "pointsMonitoring": "STRELKI",
             "section": "14SP",
-            "railFittersWarningArea": "OM2_5"
+            "railFittersWarningArea": "OM2_5",
+            "guardPlusPlus": [
+                "16"
+            ],
+            "lockingPlus": [
+                "10_16SP"
+            ],
+            "pairPoint": "16"
         }
     },
     {
@@ -218,7 +237,14 @@
             "iObjTag": "15",
             "pointsMonitoring": "STRELKI",
             "section": "15SP",
-            "railFittersWarningArea": "OM1_5"
+            "railFittersWarningArea": "OM1_5",
+            "guardPlusPlus": [
+                "17"
+            ],
+            "lockingPlus": [
+                "17SP"
+            ],
+            "pairPoint": "17"
         }
     },
     {
@@ -231,7 +257,17 @@
             "iObjTag": "16",
             "pointsMonitoring": "STRELKI",
             "section": "10_16SP",
-            "railFittersWarningArea": "OM2_3"
+            "railFittersWarningArea": "OM2_3",
+            "guardPlusPlus": [
+                "14"
+            ],
+            "guardMinusPlus": [
+                "10"
+            ],
+            "lockingPlus": [
+                "14SP"
+            ],
+            "pairPoint": "14"
         }
     },
     {
@@ -244,7 +280,14 @@
             "iObjTag": "17",
             "pointsMonitoring": "STRELKI",
             "section": "17SP",
-            "railFittersWarningArea": "OM1_5"
+            "railFittersWarningArea": "OM1_5",
+            "guardPlusPlus": [
+                "15"
+            ],
+            "lockingPlus": [
+                "15SP"
+            ],
+            "pairPoint": "15"
         }
     },
     {
@@ -270,7 +313,14 @@
             "iObjTag": "19",
             "pointsMonitoring": "STRELKI",
             "section": "19SP",
-            "railFittersWarningArea": "OM1_6"
+            "railFittersWarningArea": "OM1_6",
+            "guardPlusPlus": [
+                "21"
+            ],
+            "lockingPlus": [
+                "21SP"
+            ],
+            "pairPoint": "21"
         }
     },
     {
@@ -296,7 +346,14 @@
             "iObjTag": "21",
             "pointsMonitoring": "STRELKI",
             "section": "21SP",
-            "railFittersWarningArea": "OM1_6"
+            "railFittersWarningArea": "OM1_6",
+            "guardPlusPlus": [
+                "19"
+            ],
+            "lockingPlus": [
+                "19SP"
+            ],
+            "pairPoint": "19"
         }
     },
     {
@@ -335,7 +392,10 @@
             "iObjTag": "24",
             "pointsMonitoring": "STRELKI",
             "section": "24SP",
-            "railFittersWarningArea": "OM2_6"
+            "railFittersWarningArea": "OM2_6",
+            "lockingPlus": [
+                "CHM23"
+            ]
         }
     },
     {
@@ -465,7 +525,14 @@
             "iObjTag": "34",
             "pointsMonitoring": "STRELKI",
             "section": "32_34SP",
-            "railFittersWarningArea": "OM4_2"
+            "railFittersWarningArea": "OM4_2",
+            "guardPlusPlus": [
+                "36"
+            ],
+            "lockingPlus": [
+                "36_48SP"
+            ],
+            "pairPoint": "36"
         }
     },
     {
@@ -478,7 +545,14 @@
             "iObjTag": "36",
             "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
-            "railFittersWarningArea": "OM4_3"
+            "railFittersWarningArea": "OM4_3",
+            "guardPlusPlus": [
+                "34"
+            ],
+            "lockingPlus": [
+                "32_34SP"
+            ],
+            "pairPoint": "34"
         }
     },
     {
@@ -491,7 +565,14 @@
             "iObjTag": "38",
             "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
-            "railFittersWarningArea": "OM4_3"
+            "railFittersWarningArea": "OM4_3",
+            "guardPlusPlus": [
+                "40"
+            ],
+            "lockingPlus": [
+                "40_44SP"
+            ],
+            "pairPoint": "40"
         }
     },
     {
@@ -504,7 +585,14 @@
             "iObjTag": "40",
             "pointsMonitoring": "STRELKI",
             "section": "40_44SP",
-            "railFittersWarningArea": "OM4_4"
+            "railFittersWarningArea": "OM4_4",
+            "guardPlusPlus": [
+                "38"
+            ],
+            "lockingPlus": [
+                "36_48SP"
+            ],
+            "pairPoint": "38"
         }
     },
     {
@@ -540,7 +628,14 @@
             "iObjTag": "44",
             "pointsMonitoring": "STRELKI",
             "section": "40_44SP",
-            "railFittersWarningArea": "OM4_4"
+            "railFittersWarningArea": "OM4_4",
+            "guardPlusPlus": [
+                "46"
+            ],
+            "lockingPlus": [
+                "36_48SP"
+            ],
+            "pairPoint": "46"
         }
     },
     {
@@ -553,7 +648,14 @@
             "iObjTag": "46",
             "pointsMonitoring": "STRELKI",
             "section": "36_48SP",
-            "railFittersWarningArea": "OM4_3"
+            "railFittersWarningArea": "OM4_3",
+            "guardPlusPlus": [
+                "44"
+            ],
+            "lockingPlus": [
+                "40_44SP"
+            ],
+            "pairPoint": "44"
         }
     },
     {
@@ -579,7 +681,14 @@
             "iObjTag": "50",
             "pointsMonitoring": "STRELKI",
             "section": "50_66SP",
-            "railFittersWarningArea": "OM4_5"
+            "railFittersWarningArea": "OM4_5",
+            "guardPlusPlus": [
+                "52"
+            ],
+            "lockingPlus": [
+                "52_54SP"
+            ],
+            "pairPoint": "52"
         }
     },
     {
@@ -592,7 +701,17 @@
             "iObjTag": "52",
             "pointsMonitoring": "STRELKI",
             "section": "52_54SP",
-            "railFittersWarningArea": "OM4_6"
+            "railFittersWarningArea": "OM4_6",
+            "guardPlusPlus": [
+                "50"
+            ],
+            "guardMinusMinus": [
+                "56"
+            ],
+            "lockingPlus": [
+                "50_66SP"
+            ],
+            "pairPoint": "50"
         }
     },
     {
@@ -619,6 +738,9 @@
             "pointsMonitoring": "STRELKI",
             "section": "56SP",
             "railFittersWarningArea": "OM4_6",
+            "lockingMinus": [
+                "52_54SP"
+            ],
             "oversizedMinus": [
                 {
                     "section": "52_54SP",
@@ -664,7 +786,14 @@
             "iObjTag": "62",
             "pointsMonitoring": "STRELKI",
             "section": "62SP",
-            "railFittersWarningArea": "OM4_6"
+            "railFittersWarningArea": "OM4_6",
+            "guardPlusPlus": [
+                "64"
+            ],
+            "lockingPlus": [
+                "64SP"
+            ],
+            "pairPoint": "64"
         }
     },
     {
@@ -677,7 +806,14 @@
             "iObjTag": "64",
             "pointsMonitoring": "STRELKI",
             "section": "64SP",
-            "railFittersWarningArea": "OM4_6"
+            "railFittersWarningArea": "OM4_6",
+            "guardPlusPlus": [
+                "62"
+            ],
+            "lockingPlus": [
+                "62SP"
+            ],
+            "pairPoint": "62"
         }
     },
     {
