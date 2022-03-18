@@ -1,4 +1,5 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
+<Main>
     <!-- Маневровые сигналы -->
 
     <TObj  Type="SvMan" Id="2001"  Tag="M1" >
@@ -510,3 +511,4 @@
       <Routes  M="M68_M46" />
 
     </TObj>
+</Main>

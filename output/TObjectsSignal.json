@@ -126,7 +126,8 @@
             "id": "CHM23",
             "indent": "CHM23",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM23"
+            "iObjTag": "CHM23",
+            "startUp": "23BP"
         }
     },
     {
@@ -197,6 +198,516 @@
             "indent": "CHM30",
             "idControlArea": "ULTRAMAR",
             "iObjTag": "CHM30"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M1",
+        "data": {
+            "id": "M1",
+            "indent": "M1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M1"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M2",
+        "data": {
+            "id": "M2",
+            "indent": "M2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M2"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M3",
+        "data": {
+            "id": "M3",
+            "indent": "M3",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M3"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M4",
+        "data": {
+            "id": "M4",
+            "indent": "M4",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M4"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M5",
+        "data": {
+            "id": "M5",
+            "indent": "M5",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M5"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M6",
+        "data": {
+            "id": "M6",
+            "indent": "M6",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M6"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M7",
+        "data": {
+            "id": "M7",
+            "indent": "M7",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M7"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M8",
+        "data": {
+            "id": "M8",
+            "indent": "M8",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M8"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M9",
+        "data": {
+            "id": "M9",
+            "indent": "M9",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M9"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M10",
+        "data": {
+            "id": "M10",
+            "indent": "M10",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M10"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M11",
+        "data": {
+            "id": "M11",
+            "indent": "M11",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M11"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M12",
+        "data": {
+            "id": "M12",
+            "indent": "M12",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M12"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M13",
+        "data": {
+            "id": "M13",
+            "indent": "M13",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M13"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M14",
+        "data": {
+            "id": "M14",
+            "indent": "M14",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M14"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M15",
+        "data": {
+            "id": "M15",
+            "indent": "M15",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M15"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M16",
+        "data": {
+            "id": "M16",
+            "indent": "M16",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M16"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M17",
+        "data": {
+            "id": "M17",
+            "indent": "M17",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M17"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M18",
+        "data": {
+            "id": "M18",
+            "indent": "M18",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M18"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M19",
+        "data": {
+            "id": "M19",
+            "indent": "M19",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M19"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M20",
+        "data": {
+            "id": "M20",
+            "indent": "M20",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M20"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M21",
+        "data": {
+            "id": "M21",
+            "indent": "M21",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M21"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M22",
+        "data": {
+            "id": "M22",
+            "indent": "M22",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M22"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M23",
+        "data": {
+            "id": "M23",
+            "indent": "M23",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M23"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M24",
+        "data": {
+            "id": "M24",
+            "indent": "M24",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M24"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M25",
+        "data": {
+            "id": "M25",
+            "indent": "M25",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M25"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M26",
+        "data": {
+            "id": "M26",
+            "indent": "M26",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M26"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M27",
+        "data": {
+            "id": "M27",
+            "indent": "M27",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M27"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M28",
+        "data": {
+            "id": "M28",
+            "indent": "M28",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M28"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M29",
+        "data": {
+            "id": "M29",
+            "indent": "M29",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M29"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M30",
+        "data": {
+            "id": "M30",
+            "indent": "M30",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M30"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M31",
+        "data": {
+            "id": "M31",
+            "indent": "M31",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M31"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M32",
+        "data": {
+            "id": "M32",
+            "indent": "M32",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M32"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M33",
+        "data": {
+            "id": "M33",
+            "indent": "M33",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M33"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M34",
+        "data": {
+            "id": "M34",
+            "indent": "M34",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M34"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M38",
+        "data": {
+            "id": "M38",
+            "indent": "M38",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M38"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M40",
+        "data": {
+            "id": "M40",
+            "indent": "M40",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M40"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M42",
+        "data": {
+            "id": "M42",
+            "indent": "M42",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M42"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M44",
+        "data": {
+            "id": "M44",
+            "indent": "M44",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M44"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M46",
+        "data": {
+            "id": "M46",
+            "indent": "M46",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M46"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M48",
+        "data": {
+            "id": "M48",
+            "indent": "M48",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M48"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M50",
+        "data": {
+            "id": "M50",
+            "indent": "M50",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M50"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M52",
+        "data": {
+            "id": "M52",
+            "indent": "M52",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M52"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M54",
+        "data": {
+            "id": "M54",
+            "indent": "M54",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M54"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M56",
+        "data": {
+            "id": "M56",
+            "indent": "M56",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M56"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M58",
+        "data": {
+            "id": "M58",
+            "indent": "M58",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M58"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M60",
+        "data": {
+            "id": "M60",
+            "indent": "M60",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M60"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M62",
+        "data": {
+            "id": "M62",
+            "indent": "M62",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M62"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M64",
+        "data": {
+            "id": "M64",
+            "indent": "M64",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M64"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M66",
+        "data": {
+            "id": "M66",
+            "indent": "M66",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M66"
+        }
+    },
+    {
+        "class": "PpoShuntingSignal",
+        "tag": "M68",
+        "data": {
+            "id": "M68",
+            "indent": "M68",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M68"
+        }
+    },
+    {
+        "class": "PpoShuntingSignalWithTrackAnD",
+        "tag": "M36",
+        "data": {
+            "id": "M36",
+            "indent": "M36",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "M36"
         }
     },
     {

@@ -32,6 +32,7 @@ class PpoTrainSignal(PpoObject):
     routePointer = AnyDescriptor(is_required=False)
     groupRoutePointers = AnyDescriptor(is_list=True, is_required=False)
     uksps = AnyDescriptor(is_required=False)
+    startUp = AnyDescriptor(is_required=False)
 
 
 class PpoRepeatSignal(PpoObject):
