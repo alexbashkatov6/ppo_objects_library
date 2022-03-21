@@ -1,8 +1,9 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Зоны оповещение монтеров пути -->
 
     <!-- Район оповещения № 1 -->
 
+<Main>
     <TObj Type="GroupOM"  Tag="OM1" />
 
     <TObj Type="OM" Id="5101"  Tag="OM1_1" >
@@ -168,3 +169,4 @@
       <Str TObj="68 70" />
 
     </TObj>
+</Main>

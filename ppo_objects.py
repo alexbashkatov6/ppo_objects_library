@@ -152,9 +152,29 @@ class PpoPointMachineCi(PpoObject):
     addrUi = AnyDescriptor()
 
 
-class PpoTrackBSSO(PpoObject):
-    addrKi = AnyDescriptor()
-    addrUi = AnyDescriptor()
+class PpoAxisCountingCi(PpoObject):
+    receiverAddr = AnyDescriptor()
+    # addrKi = AnyDescriptor()
+    # addrUi = AnyDescriptor()
+
+
+class PpoGroupRailFittersWarningArea(PpoObject):
+    pass
+
+
+class PpoRailFittersWarningAreaRi(PpoObject):
+    AddrMKI_KNM = AnyDescriptor()
+    AddrMUI_RRM = AnyDescriptor()
+    AddrMUI_OM = AnyDescriptor()
+
+
+class PpoRailFittersWarningArea(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+    group = AnyDescriptor()
+    points = AnyDescriptor(is_list=True)
 
 
 class PpoControlAreaBorder(PpoObject):

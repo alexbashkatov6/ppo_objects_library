@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Зоны оповещение монтеров пути -->
 
+<Main>
     <IObj Type="OM"   Tag="OM1_1"  > <AddrKI  KNM="1:1:21" /> <AddrUI   OM="1:1:14" /> <RRM  IObj="RRM1_1" /> </IObj>
     <IObj Type="RRM"  Tag="RRM1_1" >                          <AddrUI  RRM="1:1:13" />                        </IObj>
 
@@ -72,3 +73,4 @@
 
     <IObj Type="OM"   Tag="OM4_7"  > <AddrKI  KNM="1:2:18" /> <AddrUI   OM="1:2:36" /> <RRM  IObj="RRM4_7" /> </IObj>
     <IObj Type="RRM"  Tag="RRM4_7" >                          <AddrUI  RRM="1:2:35" />                        </IObj>
+</Main>
