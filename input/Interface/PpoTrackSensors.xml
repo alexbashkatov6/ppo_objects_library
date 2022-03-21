@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Путевые участки контролируемые методом счета осей -->
 
+<Main>
     <IObj Type="BSSO"  Tag="NAP"     > <Addr  KI="1"  UI="1"  /> </IObj>
     <IObj Type="BSSO"  Tag="1SP"     > <Addr  KI="2"  UI="2"  /> </IObj>
     <IObj Type="BSSO"  Tag="3SP"     > <Addr  KI="3"  UI="3"  /> </IObj>
@@ -72,3 +73,4 @@
     <IObj Type="BSSO"  Tag="12_14P"  > <Addr  KI="69" UI="69" /> </IObj>
     <IObj Type="BSSO"  Tag="12SP"    > <Addr  KI="70" UI="70" /> </IObj>
     <IObj Type="BSSO"  Tag="M2P"     > <Addr  KI="71" UI="71" /> </IObj>
+</Main>

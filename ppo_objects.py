@@ -147,6 +147,16 @@ class PpoPoint(PpoObject):
     additionalGuardLock = AnyDescriptor(internal_obj_type="SectionAndIgnoreCondition", is_list=True, is_required=False)
 
 
+class PpoPointMachineCi(PpoObject):
+    addrKi = AnyDescriptor()
+    addrUi = AnyDescriptor()
+
+
+class PpoTrackBSSO(PpoObject):
+    addrKi = AnyDescriptor()
+    addrUi = AnyDescriptor()
+
+
 class PpoControlAreaBorder(PpoObject):
     id_ = AnyDescriptor()
     indent = AnyDescriptor()

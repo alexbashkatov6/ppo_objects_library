@@ -12,7 +12,7 @@ from ppo_objects import PpoObject, PpoRoutePointer, PpoRoutePointerRi, PpoTrainS
     PpoSemiAutomaticBlockingSystem, PpoSemiAutomaticBlockingSystemRi, PpoAutomaticBlockingSystem, \
     PpoAutomaticBlockingSystemRi, PpoTrackCrossroad, PpoTrainNotificationRi, PpoRailCrossingRi, PpoRailCrossing, \
     PpoControlDeviceDerailmentStock, PpoControlDeviceDerailmentStockCi, PpoTrackUnit, PpoTrackReceiverRi, \
-    PpoLightSignalRi, PpoRepeatSignal
+    PpoLightSignalRi, PpoRepeatSignal, PpoPointMachineCi, PpoTrackBSSO
 from constants import INPUT_FOLDER, OUTPUT_FOLDER, INTERMEDIATE_IN_FOLDER, INTERMEDIATE_OUT_FOLDER, \
     PYTHON_KEYWORD_REPLACES
 

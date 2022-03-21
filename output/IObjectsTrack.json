@@ -1,0 +1,570 @@
+[
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_NAP",
+        "data": {
+            "addrKi": 1,
+            "addrUi": 1
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_1SP",
+        "data": {
+            "addrKi": 2,
+            "addrUi": 2
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_3SP",
+        "data": {
+            "addrKi": 3,
+            "addrUi": 3
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_5SP",
+        "data": {
+            "addrKi": 4,
+            "addrUi": 4
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_7SP",
+        "data": {
+            "addrKi": 5,
+            "addrUi": 5
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_9SP",
+        "data": {
+            "addrKi": 6,
+            "addrUi": 6
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_13SP",
+        "data": {
+            "addrKi": 7,
+            "addrUi": 7
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_15SP",
+        "data": {
+            "addrKi": 8,
+            "addrUi": 8
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_17SP",
+        "data": {
+            "addrKi": 9,
+            "addrUi": 9
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_19SP",
+        "data": {
+            "addrKi": 10,
+            "addrUi": 10
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_21SP",
+        "data": {
+            "addrKi": 11,
+            "addrUi": 11
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_1P",
+        "data": {
+            "addrKi": 12,
+            "addrUi": 12
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_2P",
+        "data": {
+            "addrKi": 13,
+            "addrUi": 13
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_3P",
+        "data": {
+            "addrKi": 14,
+            "addrUi": 14
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_4AP",
+        "data": {
+            "addrKi": 15,
+            "addrUi": 15
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_5AP",
+        "data": {
+            "addrKi": 16,
+            "addrUi": 16
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_6AP",
+        "data": {
+            "addrKi": 17,
+            "addrUi": 17
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_7AP",
+        "data": {
+            "addrKi": 18,
+            "addrUi": 18
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_23SP",
+        "data": {
+            "addrKi": 19,
+            "addrUi": 19
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_9P",
+        "data": {
+            "addrKi": 20,
+            "addrUi": 20
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_10P",
+        "data": {
+            "addrKi": 21,
+            "addrUi": 21
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_8P",
+        "data": {
+            "addrKi": 22,
+            "addrUi": 22
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_25_33SP",
+        "data": {
+            "addrKi": 23,
+            "addrUi": 23
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_11P",
+        "data": {
+            "addrKi": 24,
+            "addrUi": 24
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_12P",
+        "data": {
+            "addrKi": 25,
+            "addrUi": 25
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_13P",
+        "data": {
+            "addrKi": 26,
+            "addrUi": 26
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_14P",
+        "data": {
+            "addrKi": 27,
+            "addrUi": 27
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_15P",
+        "data": {
+            "addrKi": 28,
+            "addrUi": 28
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_16P",
+        "data": {
+            "addrKi": 29,
+            "addrUi": 29
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_7BP",
+        "data": {
+            "addrKi": 30,
+            "addrUi": 30
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_6BP",
+        "data": {
+            "addrKi": 31,
+            "addrUi": 31
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_5BP",
+        "data": {
+            "addrKi": 32,
+            "addrUi": 32
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_4BP",
+        "data": {
+            "addrKi": 33,
+            "addrUi": 33
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_50_66SP",
+        "data": {
+            "addrKi": 34,
+            "addrUi": 34
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_52_54SP",
+        "data": {
+            "addrKi": 35,
+            "addrUi": 35
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_56SP",
+        "data": {
+            "addrKi": 36,
+            "addrUi": 36
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_62SP",
+        "data": {
+            "addrKi": 37,
+            "addrUi": 37
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_64SP",
+        "data": {
+            "addrKi": 38,
+            "addrUi": 38
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_70SP",
+        "data": {
+            "addrKi": 39,
+            "addrUi": 39
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_68_70P",
+        "data": {
+            "addrKi": 40,
+            "addrUi": 40
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_68SP",
+        "data": {
+            "addrKi": 41,
+            "addrUi": 41
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_32_68P",
+        "data": {
+            "addrKi": 42,
+            "addrUi": 42
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_46_68P",
+        "data": {
+            "addrKi": 43,
+            "addrUi": 43
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_46_50P",
+        "data": {
+            "addrKi": 44,
+            "addrUi": 44
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_40_56P",
+        "data": {
+            "addrKi": 45,
+            "addrUi": 45
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_40_44SP",
+        "data": {
+            "addrKi": 46,
+            "addrUi": 46
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_36_48SP",
+        "data": {
+            "addrKi": 47,
+            "addrUi": 47
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_32_34SP",
+        "data": {
+            "addrKi": 48,
+            "addrUi": 48
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_26_28SP",
+        "data": {
+            "addrKi": 49,
+            "addrUi": 49
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_30SP",
+        "data": {
+            "addrKi": 50,
+            "addrUi": 50
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_23AP",
+        "data": {
+            "addrKi": 51,
+            "addrUi": 51
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_24SP",
+        "data": {
+            "addrKi": 52,
+            "addrUi": 52
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_22P",
+        "data": {
+            "addrKi": 53,
+            "addrUi": 53
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_23BP",
+        "data": {
+            "addrKi": 54,
+            "addrUi": 54
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_24P",
+        "data": {
+            "addrKi": 55,
+            "addrUi": 55
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_25P",
+        "data": {
+            "addrKi": 56,
+            "addrUi": 56
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_26P",
+        "data": {
+            "addrKi": 57,
+            "addrUi": 57
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_27P",
+        "data": {
+            "addrKi": 58,
+            "addrUi": 58
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_28P",
+        "data": {
+            "addrKi": 59,
+            "addrUi": 59
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_29P",
+        "data": {
+            "addrKi": 60,
+            "addrUi": 60
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_30P",
+        "data": {
+            "addrKi": 61,
+            "addrUi": 61
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_2_22SP",
+        "data": {
+            "addrKi": 62,
+            "addrUi": 62
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_M4P",
+        "data": {
+            "addrKi": 63,
+            "addrUi": 63
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_4SP",
+        "data": {
+            "addrKi": 64,
+            "addrUi": 64
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_6_8SP",
+        "data": {
+            "addrKi": 65,
+            "addrUi": 65
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_10_16SP",
+        "data": {
+            "addrKi": 66,
+            "addrUi": 66
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_10_12P",
+        "data": {
+            "addrKi": 67,
+            "addrUi": 67
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_14SP",
+        "data": {
+            "addrKi": 68,
+            "addrUi": 68
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_12_14P",
+        "data": {
+            "addrKi": 69,
+            "addrUi": 69
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_12SP",
+        "data": {
+            "addrKi": 70,
+            "addrUi": 70
+        }
+    },
+    {
+        "class": "PpoTrackBSSO",
+        "tag": "track_M2P",
+        "data": {
+            "addrKi": 71,
+            "addrUi": 71
+        }
+    }
+]

@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Светофоры с бесконтактным интерфейсом на базе УСО БК -->
 
+<Main>
     <IObj Type="BSWK"  Tag="N"     > <Addr  KI="1"  UI="1"  /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
     <IObj Type="BSWK"  Tag="CH1"   > <Addr  KI="2"  UI="2"  /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
     <IObj Type="BSWK"  Tag="PCH1"  > <Addr  KI="3"  UI="3"  /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
@@ -80,3 +81,4 @@
     <IObj Type="BSWK"  Tag="M68"   > <Addr  KI="77" UI="77" /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
     <IObj Type="BSWK"  Tag="NM1"   > <Addr  KI="78" UI="78" /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
     <IObj Type="BSWK"  Tag="M24"   > <Addr  KI="79" UI="79" /> <DN  IObj="DN" /> <KSIZ  IObj="KSIZ" /> </IObj>
+</Main>

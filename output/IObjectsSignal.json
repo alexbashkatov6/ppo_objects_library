@@ -1,0 +1,871 @@
+[
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "N",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 1,
+            "addrUi": 1,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH1",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 2,
+            "addrUi": 2,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH1",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 3,
+            "addrUi": 3,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH2",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 4,
+            "addrUi": 4,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH2",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 5,
+            "addrUi": 5,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH3",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 6,
+            "addrUi": 6,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH3",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 7,
+            "addrUi": 7,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH4",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 8,
+            "addrUi": 8,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH4",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 9,
+            "addrUi": 9,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH9",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 10,
+            "addrUi": 10,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH9",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 11,
+            "addrUi": 11,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH10",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 12,
+            "addrUi": 12,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH10",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 13,
+            "addrUi": 13,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH7",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 14,
+            "addrUi": 14,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH7",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 15,
+            "addrUi": 15,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CH8",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 16,
+            "addrUi": 16,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "PCH8",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 17,
+            "addrUi": 17,
+            "type": 7
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M6",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 18,
+            "addrUi": 18,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M1",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 19,
+            "addrUi": 19,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M3",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 20,
+            "addrUi": 20,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M5",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 21,
+            "addrUi": 21,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M7",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 22,
+            "addrUi": 22,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M9",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 23,
+            "addrUi": 23,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M11",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 24,
+            "addrUi": 24,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M13",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 25,
+            "addrUi": 25,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M15",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 26,
+            "addrUi": 26,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M17",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 27,
+            "addrUi": 27,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M19",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 28,
+            "addrUi": 28,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M21",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 29,
+            "addrUi": 29,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M23",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 30,
+            "addrUi": 30,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M25",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 31,
+            "addrUi": 31,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M27",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 32,
+            "addrUi": 32,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M29",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 33,
+            "addrUi": 33,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M31",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 34,
+            "addrUi": 34,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M33",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 35,
+            "addrUi": 35,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M8",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 36,
+            "addrUi": 36,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M2",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 37,
+            "addrUi": 37,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M4",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 38,
+            "addrUi": 38,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M10",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 39,
+            "addrUi": 39,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M12",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 40,
+            "addrUi": 40,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M14",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 41,
+            "addrUi": 41,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M16",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 42,
+            "addrUi": 42,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M18",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 43,
+            "addrUi": 43,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M20",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 44,
+            "addrUi": 44,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M22",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 45,
+            "addrUi": 45,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M26",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 46,
+            "addrUi": 46,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M28",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 47,
+            "addrUi": 47,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M30",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 48,
+            "addrUi": 48,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M32",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 49,
+            "addrUi": 49,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M34",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 50,
+            "addrUi": 50,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M36",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 51,
+            "addrUi": 51,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M38",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 52,
+            "addrUi": 52,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M40",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 53,
+            "addrUi": 53,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M42",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 54,
+            "addrUi": 54,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M44",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 55,
+            "addrUi": 55,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M46",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 56,
+            "addrUi": 56,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M48",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 57,
+            "addrUi": 57,
+            "type": 2
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM23",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 58,
+            "addrUi": 58,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M50",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 59,
+            "addrUi": 59,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM24",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 60,
+            "addrUi": 60,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M52",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 61,
+            "addrUi": 61,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM25",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 62,
+            "addrUi": 62,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M54",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 63,
+            "addrUi": 63,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM26",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 64,
+            "addrUi": 64,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M56",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 65,
+            "addrUi": 65,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM27",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 66,
+            "addrUi": 66,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M58",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 67,
+            "addrUi": 67,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM28",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 68,
+            "addrUi": 68,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M60",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 69,
+            "addrUi": 69,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM29",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 70,
+            "addrUi": 70,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M62",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 71,
+            "addrUi": 71,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "CHM30",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 72,
+            "addrUi": 72,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M64",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 73,
+            "addrUi": 73,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "NM3",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 74,
+            "addrUi": 74,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M66",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 75,
+            "addrUi": 75,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "NM2",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 76,
+            "addrUi": 76,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M68",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 77,
+            "addrUi": 77,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "NM1",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 78,
+            "addrUi": 78,
+            "type": 1
+        }
+    },
+    {
+        "class": "PpoLightSignalCi",
+        "tag": "M24",
+        "data": {
+            "mode": "DN",
+            "addrKa": "Fixed_1",
+            "addrKi": 79,
+            "addrUi": 79,
+            "type": 1
+        }
+    }
+]

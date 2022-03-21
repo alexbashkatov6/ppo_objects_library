@@ -17,12 +17,13 @@ for elem in points_et.getroot():
     new_obj.tag = elem.attrib['Tag']
     new_obj.id_ = elem.attrib['Tag']
     new_obj.indent = elem.attrib['Tag']
-    new_obj.iObjTag = elem.attrib['Tag']
+    new_obj.iObjTag = elem.find("St").attrib['IObj']
     if elem.attrib['Tag'] == "24":
         new_obj.type_ = "2"
     new_obj.pointsMonitoring = "STRELKI"
     new_obj.idControlArea = elem.find("RU").attrib['TObj']
     new_obj.section = elem.find("Sek").attrib['TObj']
+    # new_obj.i_str = elem.find("St").attrib['IObj']
     new_obj.railFittersWarningArea = elem.find("MP").attrib['TObj']
     pair_point_el = elem.find("St2")
     if not (pair_point_el is None):

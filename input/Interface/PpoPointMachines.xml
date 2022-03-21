@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Стрелочные электроприводы с бесконтактным интерфейсом на базе УСО БК -->
 
+<Main>
     <IObj Type="BST1"  Tag="1"     > <Addr  KI="1"  UI="1"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
     <IObj Type="BST1"  Tag="3"     > <Addr  KI="2"  UI="2"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate2" /> </IObj>
     <IObj Type="BST1"  Tag="5"     > <Addr  KI="3"  UI="3"  /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet02_Crate1" /> </IObj>
@@ -44,3 +45,4 @@
     <IObj Type="BST1"  Tag="68"    > <Addr  KI="41" UI="41" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
     <IObj Type="BST1"  Tag="70"    > <Addr  KI="42" UI="42" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate1" /> </IObj>
     <IObj Type="BST1"  Tag="56"    > <Addr  KI="43" UI="43" /> <KTPS  IObj="KTPS" /> <KSIZ  IObj="KSIZ" /> <USOBK_Crate  IObj="Cabinet05_Crate2" /> </IObj>
+</Main>
