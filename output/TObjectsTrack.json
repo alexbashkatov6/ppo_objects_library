@@ -25,8 +25,8 @@
         "class": "PpoLineEnd",
         "tag": "5AT",
         "data": {
-            "id": "5AT",
-            "indent": "5AT",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -36,8 +36,8 @@
         "class": "PpoLineEnd",
         "tag": "6AT",
         "data": {
-            "id": "6AT",
-            "indent": "6AT",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -47,8 +47,8 @@
         "class": "PpoLineEnd",
         "tag": "11T",
         "data": {
-            "id": "11T",
-            "indent": "11T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -58,8 +58,8 @@
         "class": "PpoLineEnd",
         "tag": "12T",
         "data": {
-            "id": "12T",
-            "indent": "12T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -69,8 +69,8 @@
         "class": "PpoLineEnd",
         "tag": "13T",
         "data": {
-            "id": "13T",
-            "indent": "13T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -80,8 +80,8 @@
         "class": "PpoLineEnd",
         "tag": "14T",
         "data": {
-            "id": "14T",
-            "indent": "14T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -91,8 +91,8 @@
         "class": "PpoLineEnd",
         "tag": "15T",
         "data": {
-            "id": "15T",
-            "indent": "15T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"
@@ -102,8 +102,8 @@
         "class": "PpoLineEnd",
         "tag": "16T",
         "data": {
-            "id": "16T",
-            "indent": "16T",
+            "id": 0,
+            "indent": 0,
             "idControlArea": "ULTRAMAR",
             "length": "5",
             "trackUnit": "nullptr"

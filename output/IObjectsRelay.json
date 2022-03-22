@@ -1,0 +1,100 @@
+[
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_KPA",
+        "data": {
+            "inputAddr": [
+                "USO:1:1:3"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_APK",
+        "data": {
+            "inputAddr": [
+                "USO:1:1:4"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_VZU",
+        "data": {
+            "inputAddr": [
+                "USO:1:1:6"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "POS",
+        "data": {
+            "inputAddr": [
+                "USO:1:1:8",
+                "USO:1:1:7",
+                "USO:1:1:9"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_F1",
+        "data": {
+            "inputAddr": [
+                "SPU:1:6",
+                "SPU:1:12"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_F2",
+        "data": {
+            "inputAddr": [
+                "SPU:1:8",
+                "SPU:1:14"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "SCHVP",
+        "data": {
+            "inputAddr": [
+                "SPU:1:2",
+                "SPU:1:4"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayInput",
+        "tag": "OSI_APU",
+        "data": {
+            "inputAddr": [
+                "SPU:1:18"
+            ]
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayOutput",
+        "tag": "SNK_IIGP",
+        "data": {
+            "addrUI": "USO:1:1:10"
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayOutput",
+        "tag": "OV_IIGP",
+        "data": {
+            "addrUI": "USO:1:1:11"
+        }
+    },
+    {
+        "class": "PpoGeneralPurposeRelayOutput",
+        "tag": "PV_IIGP",
+        "data": {
+            "addrUI": "USO:1:1:12"
+        }
+    }
+]

@@ -394,7 +394,7 @@
             "pointsMonitoring": "STRELKI",
             "section": "24SP",
             "railFittersWarningArea": "OM2_6",
-            "lockingPlus": [
+            "lockingPlusSignal": [
                 "CHM23"
             ]
         }

@@ -18,8 +18,6 @@ for elem in points_et.getroot():
     new_obj.id_ = elem.attrib['Tag']
     new_obj.indent = elem.attrib['Tag']
     new_obj.iObjTag = elem.find("St").attrib['IObj']
-    if elem.attrib['Tag'] == "24":
-        new_obj.type_ = "2"
     new_obj.pointsMonitoring = "STRELKI"
     new_obj.idControlArea = elem.find("RU").attrib['TObj']
     new_obj.section = elem.find("Sek").attrib['TObj']
@@ -45,9 +43,16 @@ for elem in points_et.getroot():
         else:
             new_obj.guardMinusMinus = [guard_point]
     loc_plus = elem.find("ZP")
+    param = elem.find("Param")
+    # if elem.attrib['Tag'] == "24":
+    # if not (new_obj.param is None):
     if not (loc_plus is None):
         loc_sect = loc_plus.attrib['TObj']
-        new_obj.lockingPlus = [loc_sect]
+        if param is None:
+            new_obj.lockingPlus = [loc_sect]
+        else:
+            new_obj.type_ = "2"
+            new_obj.lockingPlusSignal = [loc_sect]
     loc_minus = elem.find("ZM")
     if not (loc_minus is None):
         loc_sect = loc_minus.attrib['TObj']

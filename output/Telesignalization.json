@@ -1,0 +1,333 @@
+[
+    {
+        "class": "PpoCabinetUsoBk",
+        "tag": "UsoBk2",
+        "data": {
+            "lightSignals": [
+                "N",
+                "CH1",
+                "PCH1",
+                "CH2",
+                "PCH2",
+                "CH3",
+                "PCH3",
+                "CH4",
+                "PCH4",
+                "CH9",
+                "PCH9",
+                "CH10",
+                "PCH10",
+                "CH7",
+                "PCH7",
+                "CH8",
+                "PCH8",
+                "M6"
+            ],
+            "hiCratePointMachines": [
+                "1",
+                "5",
+                "9",
+                "13",
+                "19_21"
+            ],
+            "loCratePointMachines": [
+                "3",
+                "7",
+                "23",
+                "15_17",
+                "25"
+            ],
+            "controlDeviceDerailmentStocks": []
+        }
+    },
+    {
+        "class": "PpoCabinetUsoBk",
+        "tag": "UsoBk3",
+        "data": {
+            "lightSignals": [
+                "M1",
+                "M3",
+                "M5",
+                "M7",
+                "M9",
+                "M11",
+                "M13",
+                "M15",
+                "M17",
+                "M19",
+                "M21",
+                "M23",
+                "M25",
+                "M27",
+                "M29",
+                "M31",
+                "M33",
+                "M8",
+                "M2",
+                "M4"
+            ],
+            "hiCratePointMachines": [
+                "27",
+                "31",
+                "42",
+                "32"
+            ],
+            "loCratePointMachines": [
+                "29",
+                "33",
+                "48"
+            ],
+            "controlDeviceDerailmentStocks": []
+        }
+    },
+    {
+        "class": "PpoCabinetUsoBk",
+        "tag": "UsoBk4",
+        "data": {
+            "lightSignals": [
+                "M10",
+                "M12",
+                "M14",
+                "M16",
+                "M18",
+                "M20",
+                "M22",
+                "M26",
+                "M28",
+                "M30",
+                "M32",
+                "M34",
+                "M36",
+                "M38",
+                "M40",
+                "M42",
+                "M44",
+                "M46",
+                "M48"
+            ],
+            "hiCratePointMachines": [
+                "2",
+                "6",
+                "10",
+                "14_16",
+                "20",
+                "24",
+                "28"
+            ],
+            "loCratePointMachines": [
+                "4",
+                "8",
+                "12",
+                "18",
+                "22",
+                "26",
+                "30"
+            ],
+            "controlDeviceDerailmentStocks": []
+        }
+    },
+    {
+        "class": "PpoCabinetUsoBk",
+        "tag": "UsoBk5",
+        "data": {
+            "lightSignals": [
+                "CHM23",
+                "M50",
+                "CHM24",
+                "M52",
+                "CHM25",
+                "M54",
+                "CHM26",
+                "M56",
+                "CHM27",
+                "M58",
+                "CHM28",
+                "M60",
+                "CHM29",
+                "M62",
+                "CHM30",
+                "M64",
+                "NM3",
+                "M66",
+                "NM2",
+                "M68",
+                "NM1",
+                "M24"
+            ],
+            "hiCratePointMachines": [
+                "34_36",
+                "44_46",
+                "50_52",
+                "58",
+                "66",
+                "70"
+            ],
+            "loCratePointMachines": [
+                "38_40",
+                "54",
+                "62_64",
+                "60",
+                "68",
+                "56"
+            ],
+            "controlDeviceDerailmentStocks": []
+        }
+    },
+    {
+        "class": "PpoInsulationResistanceMonitoring",
+        "tag": "ControlIzolation",
+        "data": {
+            "cabinets": [
+                "UsoBk2",
+                "UsoBk3",
+                "UsoBk4",
+                "UsoBk5"
+            ],
+            "addrKI_OK": "USO:1:1:5"
+        }
+    },
+    {
+        "class": "PpoPointMachinesCurrentMonitoring",
+        "tag": "KTPS",
+        "data": {
+            "cabinets": [
+                "UsoBk2",
+                "UsoBk3",
+                "UsoBk4",
+                "UsoBk5"
+            ],
+            "addrKI_KTPS": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "ControlIzolation",
+        "data": {
+            "id": "OSI_KSIZ",
+            "indent": "OSI_KSIZ",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "ControlIzolation"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "KTPS",
+        "data": {
+            "id": "KTPS",
+            "indent": "KTPS",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "KTPS"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_KPA",
+        "data": {
+            "id": "OSI_KPA",
+            "indent": "OSI_KPA",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_KPA"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_APK",
+        "data": {
+            "id": "OSI_APK",
+            "indent": "OSI_APK",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_APK"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_VZU",
+        "data": {
+            "id": "OSI_VZU",
+            "indent": "OSI_VZU",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_VZU"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "SCHVP",
+        "data": {
+            "id": "SCHVP",
+            "indent": "SCHVP",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "SCHVP"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_APU",
+        "data": {
+            "id": "OSI_APU",
+            "indent": "OSI_APU",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_APU"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_F1",
+        "data": {
+            "id": "OSI_F1",
+            "indent": "OSI_F1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_F1"
+        }
+    },
+    {
+        "class": "PpoTelesignalization",
+        "tag": "OSI_F2",
+        "data": {
+            "id": "OSI_F2",
+            "indent": "OSI_F2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "OSI_F2"
+        }
+    },
+    {
+        "class": "PpoPointsMonitoring",
+        "tag": "STRELKI",
+        "data": {
+            "id": "STRELKI",
+            "indent": "STRELKI",
+            "idControlArea": "ULTRAMAR"
+        }
+    },
+    {
+        "class": "PpoLightModeRi",
+        "tag": "DN",
+        "data": {
+            "addrKI_DN1": "NoAddr",
+            "addrKI_DN2": "SPU:1:20",
+            "addrKI_DSN": "Fixed_1",
+            "addrUI_DN": "USO:1:1:4",
+            "addrUI_DSN": "NoAddr",
+            "addrUI_ASV": "USO:1:1:5"
+        }
+    },
+    {
+        "class": "PpoLightMode",
+        "tag": "DN",
+        "data": {
+            "id": "DN",
+            "indent": "DN",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "DN"
+        }
+    },
+    {
+        "class": "PpoFireAndSecurityAlarm",
+        "tag": "POS",
+        "data": {
+            "id": "POS",
+            "indent": "POS",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "POS"
+        }
+    }
+]

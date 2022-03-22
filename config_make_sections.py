@@ -24,6 +24,10 @@ for elem in input_line_end_et.getroot():
     track_pu = elem.find("PU")
     if not (track_pu is None):
         new_obj.trackUnit = "track_{}".format(tag)
+    else:
+        new_obj.id_ = 0
+        new_obj.indent = 0
+
 
     m.append_obj(new_obj)
 

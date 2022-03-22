@@ -24,6 +24,11 @@ class PpoRoutePointerRi(PpoObject):
     outputAddrs = AnyDescriptor()
 
 
+class StartWarningArea:
+    obj = AnyDescriptor()
+    point = AnyDescriptor(is_required=False)
+
+
 class PpoTrainSignal(PpoObject):
     id_ = AnyDescriptor()
     indent = AnyDescriptor()
@@ -33,6 +38,7 @@ class PpoTrainSignal(PpoObject):
     groupRoutePointers = AnyDescriptor(is_list=True, is_required=False)
     uksps = AnyDescriptor(is_required=False)
     startUp = AnyDescriptor(is_required=False)
+    startWarningArea = AnyDescriptor(internal_obj_type="StartWarningArea", is_required=False)
 
 
 class PpoRepeatSignal(PpoObject):
@@ -55,6 +61,7 @@ class PpoShuntingSignalWithTrackAnD(PpoObject):
     indent = AnyDescriptor()
     idControlArea = AnyDescriptor()
     iObjTag = AnyDescriptor()
+    routePullTrain = AnyDescriptor()
 
 
 class PpoLightSignalCi(PpoObject):
@@ -145,6 +152,8 @@ class PpoPoint(PpoObject):
     oversizedPlus = AnyDescriptor(internal_obj_type="SectionAndIgnoreCondition", is_list=True, is_required=False)
     oversizedMinus = AnyDescriptor(internal_obj_type="SectionAndIgnoreCondition", is_list=True, is_required=False)
     additionalGuardLock = AnyDescriptor(internal_obj_type="SectionAndIgnoreCondition", is_list=True, is_required=False)
+    lockingPlusSignal = AnyDescriptor(is_list=True, is_required=False)
+    lockingMinusSignal = AnyDescriptor(is_list=True, is_required=False)
 
 
 class PpoPointMachineCi(PpoObject):
@@ -154,8 +163,6 @@ class PpoPointMachineCi(PpoObject):
 
 class PpoAxisCountingCi(PpoObject):
     receiverAddr = AnyDescriptor()
-    # addrKi = AnyDescriptor()
-    # addrUi = AnyDescriptor()
 
 
 class PpoGroupRailFittersWarningArea(PpoObject):
@@ -175,6 +182,77 @@ class PpoRailFittersWarningArea(PpoObject):
     iObjTag = AnyDescriptor()
     group = AnyDescriptor()
     points = AnyDescriptor(is_list=True)
+
+
+class PpoCabinetUsoBk(PpoObject):
+    lightSignals = AnyDescriptor(is_list=True)
+    hiCratePointMachines = AnyDescriptor(is_list=True)
+    loCratePointMachines = AnyDescriptor(is_list=True)
+    controlDeviceDerailmentStocks = AnyDescriptor(is_list=True)
+
+
+class PpoInsulationResistanceMonitoring(PpoObject):
+    cabinets = AnyDescriptor(is_list=True)
+    addrKI_OK = AnyDescriptor()
+
+
+class PpoPointMachinesCurrentMonitoring(PpoObject):
+    cabinets = AnyDescriptor(is_list=True)
+    addrKI_KTPS = AnyDescriptor()
+
+
+class PpoTelesignalization(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+
+
+class PpoPointsMonitoring(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+
+
+class PpoLightModeRi(PpoObject):
+    addrKI_DN1 = AnyDescriptor()
+    addrKI_DN2 = AnyDescriptor()
+    addrKI_DSN = AnyDescriptor()
+    addrUI_DN = AnyDescriptor()
+    addrUI_DSN = AnyDescriptor()
+    addrUI_ASV = AnyDescriptor()
+
+
+class PpoLightMode(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+
+
+class PpoFireAndSecurityAlarm(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+
+
+class PpoDieselGenerator(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    dieselControl = AnyDescriptor()
+    startDieselGenerator = AnyDescriptor()
+    stopDieselGenerator = AnyDescriptor()
+
+
+class PpoGeneralPurposeRelayInput(PpoObject):
+    inputAddr = AnyDescriptor(is_list=True)
+
+
+class PpoGeneralPurposeRelayOutput(PpoObject):
+    addrUI = AnyDescriptor()
+    defaultValue = AnyDescriptor(is_required=False)
 
 
 class PpoControlAreaBorder(PpoObject):
@@ -316,9 +394,9 @@ class PpoControlDeviceDerailmentStockCi(PpoObject):
 
 
 class PpoTrackUnit(PpoObject):
-    iObjsTag = AnyDescriptor()
-    evenTag = AnyDescriptor()
-    oddTag = AnyDescriptor()
+    iObjsTag = AnyDescriptor(is_list=True)
+    evenTag = AnyDescriptor(is_required=False)
+    oddTag = AnyDescriptor(is_required=False)
 
 
 class PpoTrackReceiverRi(PpoObject):

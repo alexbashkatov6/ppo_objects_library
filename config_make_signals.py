@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 
-from ppo_objects import PpoTrainSignal, PpoRepeatSignal, PpoShuntingSignal, PpoShuntingSignalWithTrackAnD
+from ppo_objects import PpoTrainSignal, PpoRepeatSignal, PpoShuntingSignal, PpoShuntingSignalWithTrackAnD, StartWarningArea
 from manager import Manager
 from constants import INPUT_FOLDER, TECHNOLOGY_FOLDER
 
@@ -26,6 +26,10 @@ for elem in input_train_et.getroot():
     new_obj.iObjTag = elem.attrib['Tag']
     if elem.attrib['Tag'] == "CHM23":
         new_obj.startUp = "23BP"
+    if elem.attrib['Tag'] == "N":
+        swa = StartWarningArea()
+        swa.obj = "IIGP"
+        new_obj.startWarningArea = swa
     new_obj.idControlArea = "ULTRAMAR"  # elem.find("RU").attrib['TObj']
 
     m.append_obj(new_obj)
@@ -36,6 +40,7 @@ for elem in input_shunt_et.getroot():
     tag = elem.attrib['Tag']
     if tag == "M36":
         new_obj = PpoShuntingSignalWithTrackAnD()
+        new_obj.routePullTrain = "M36_M34"
     else:
         new_obj = PpoShuntingSignal()
 

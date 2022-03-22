@@ -13,7 +13,9 @@ from ppo_objects import PpoObject, PpoRoutePointer, PpoRoutePointerRi, PpoTrainS
     PpoAutomaticBlockingSystemRi, PpoTrackCrossroad, PpoTrainNotificationRi, PpoRailCrossingRi, PpoRailCrossing, \
     PpoControlDeviceDerailmentStock, PpoControlDeviceDerailmentStockCi, PpoTrackUnit, PpoTrackReceiverRi, \
     PpoLightSignalRi, PpoRepeatSignal, PpoPointMachineCi, PpoAxisCountingCi, PpoGroupRailFittersWarningArea, \
-    PpoRailFittersWarningAreaRi, PpoRailFittersWarningArea
+    PpoRailFittersWarningAreaRi, PpoRailFittersWarningArea, PpoCabinetUsoBk, PpoInsulationResistanceMonitoring, \
+    PpoPointMachinesCurrentMonitoring, PpoTelesignalization, PpoPointsMonitoring, PpoLightModeRi, PpoLightMode, \
+    PpoFireAndSecurityAlarm, PpoGeneralPurposeRelayInput, PpoGeneralPurposeRelayOutput, StartWarningArea
 from constants import INPUT_FOLDER, OUTPUT_FOLDER, INTERMEDIATE_IN_FOLDER, INTERMEDIATE_OUT_FOLDER, \
     PYTHON_KEYWORD_REPLACES
 

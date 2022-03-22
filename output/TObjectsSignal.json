@@ -6,7 +6,10 @@
             "id": "N",
             "indent": "N",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "N"
+            "iObjTag": "N",
+            "startWarningArea": {
+                "obj": "IIGP"
+            }
         }
     },
     {
@@ -707,7 +710,8 @@
             "id": "M36",
             "indent": "M36",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "M36"
+            "iObjTag": "M36",
+            "routePullTrain": "M36_M34"
         }
     },
     {

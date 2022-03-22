@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 
-from ppo_objects import PpoAxisCountingCi
+from ppo_objects import PpoAxisCountingCi, PpoTrackUnit
 from manager import Manager
 from constants import INPUT_FOLDER, INTERFACE_FOLDER
 
@@ -13,11 +13,15 @@ for elem in track_et.getroot():
 
     elem: ET.Element
     new_obj = PpoAxisCountingCi()
-    new_obj.tag = "track_{}".format(elem.attrib['Tag'])
+    ci_tag = elem.attrib['Tag']
+    new_obj.tag = ci_tag
     new_obj.receiverAddr = int(elem.find("Addr").attrib['KI'])
-    # new_obj.addrKi = int(elem.find("Addr").attrib['KI'])
-    # new_obj.addrUi = int(elem.find("Addr").attrib['UI'])
-
     m.append_obj(new_obj)
 
-m.write_objs_json("PpoAxisCountingCi", "IObjectsTrack")
+    new_obj = PpoTrackUnit()
+    new_obj.tag = "track_{}".format(elem.attrib['Tag'])
+    new_obj.iObjsTag = [ci_tag]
+    m.append_obj(new_obj)
+
+m.write_objs_json(["PpoAxisCountingCi",
+                   "PpoTrackUnit"], "IObjectsTrack")
