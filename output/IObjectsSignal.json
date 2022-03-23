@@ -867,5 +867,19 @@
             "addrUi": 79,
             "type": 1
         }
+    },
+    {
+        "class": "PpoLightSignalRi",
+        "tag": "luzhskaya_CHU",
+        "data": {
+            "addrKI_KO": "USO:MAX_UINT",
+            "addrKI_KPS": "USO:MAX_UINT",
+            "addrKI_S": "USO:1:1:19",
+            "addrKI_RU": "USO:MAX_UINT",
+            "addrKI_GM": "USO:1:1:20",
+            "addrKI_KMGS": "USO:MAX_UINT",
+            "addrKI_ZHZS": "USO:MAX_UINT",
+            "addrKI_ZS": "USO:MAX_UINT"
+        }
     }
 ]

@@ -8,7 +8,8 @@
             "idControlArea": "ULTRAMAR",
             "iObjTag": "N",
             "startWarningArea": {
-                "obj": "IIGP"
+                "obj": "IIGP",
+                "point": 1
             }
         }
     },
@@ -19,7 +20,10 @@
             "id": "NM1",
             "indent": "NM1",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "NM1"
+            "iObjTag": "NM1",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -29,7 +33,10 @@
             "id": "NM2",
             "indent": "NM2",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "NM2"
+            "iObjTag": "NM2",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -39,7 +46,10 @@
             "id": "NM3",
             "indent": "NM3",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "NM3"
+            "iObjTag": "NM3",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -49,7 +59,10 @@
             "id": "CH1",
             "indent": "CH1",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH1"
+            "iObjTag": "CH1",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -59,7 +72,10 @@
             "id": "CH2",
             "indent": "CH2",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH2"
+            "iObjTag": "CH2",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -69,7 +85,10 @@
             "id": "CH3",
             "indent": "CH3",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH3"
+            "iObjTag": "CH3",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -79,7 +98,10 @@
             "id": "CH4",
             "indent": "CH4",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH4"
+            "iObjTag": "CH4",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -89,7 +111,10 @@
             "id": "CH7",
             "indent": "CH7",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH7"
+            "iObjTag": "CH7",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -99,7 +124,10 @@
             "id": "CH8",
             "indent": "CH8",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH8"
+            "iObjTag": "CH8",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -109,7 +137,10 @@
             "id": "CH9",
             "indent": "CH9",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH9"
+            "iObjTag": "CH9",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -119,7 +150,10 @@
             "id": "CH10",
             "indent": "CH10",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CH10"
+            "iObjTag": "CH10",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -130,7 +164,10 @@
             "indent": "CHM23",
             "idControlArea": "ULTRAMAR",
             "iObjTag": "CHM23",
-            "startUp": "23BP"
+            "startUp": "23BP",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -140,7 +177,10 @@
             "id": "CHM24",
             "indent": "CHM24",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM24"
+            "iObjTag": "CHM24",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -150,7 +190,10 @@
             "id": "CHM25",
             "indent": "CHM25",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM25"
+            "iObjTag": "CHM25",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -160,7 +203,10 @@
             "id": "CHM26",
             "indent": "CHM26",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM26"
+            "iObjTag": "CHM26",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -170,7 +216,10 @@
             "id": "CHM27",
             "indent": "CHM27",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM27"
+            "iObjTag": "CHM27",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -180,7 +229,10 @@
             "id": "CHM28",
             "indent": "CHM28",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM28"
+            "iObjTag": "CHM28",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -190,7 +242,10 @@
             "id": "CHM29",
             "indent": "CHM29",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM29"
+            "iObjTag": "CHM29",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {
@@ -200,7 +255,10 @@
             "id": "CHM30",
             "indent": "CHM30",
             "idControlArea": "ULTRAMAR",
-            "iObjTag": "CHM30"
+            "iObjTag": "CHM30",
+            "startWarningArea": {
+                "obj": "16P"
+            }
         }
     },
     {

@@ -26,10 +26,14 @@ for elem in input_train_et.getroot():
     new_obj.iObjTag = elem.attrib['Tag']
     if elem.attrib['Tag'] == "CHM23":
         new_obj.startUp = "23BP"
+    swa = StartWarningArea()
     if elem.attrib['Tag'] == "N":
-        swa = StartWarningArea()
         swa.obj = "IIGP"
-        new_obj.startWarningArea = swa
+        swa.point = 1
+    else:
+        swa.obj = "16P"
+        # swa.point = 1
+    new_obj.startWarningArea = swa
     new_obj.idControlArea = "ULTRAMAR"  # elem.find("RU").attrib['TObj']
 
     m.append_obj(new_obj)
