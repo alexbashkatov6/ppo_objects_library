@@ -65,6 +65,9 @@ for elem in input_point_sect_et.getroot():
     new_obj.idControlArea = "ULTRAMAR"
     new_obj.trackUnit = "track_{}".format(tag)
 
+    if tag == "24SP":
+        new_obj.type_ = "1"
+
     m.append_obj(new_obj)
 
 for elem in input_track_sect_et.getroot():

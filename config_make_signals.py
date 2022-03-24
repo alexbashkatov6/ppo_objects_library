@@ -30,10 +30,13 @@ for elem in input_train_et.getroot():
     if elem.attrib['Tag'] == "N":
         swa.obj = "IIGP"
         swa.point = 1
-    else:
-        swa.obj = "16P"
+        new_obj.startWarningArea = swa
+    elif elem.attrib['Tag'] == "CHM23":
+        swa.obj = "23BP"
+        new_obj.startWarningArea = swa
+    # else:
+    #     swa.obj = "16P"
         # swa.point = 1
-    new_obj.startWarningArea = swa
     new_obj.idControlArea = "ULTRAMAR"  # elem.find("RU").attrib['TObj']
 
     m.append_obj(new_obj)

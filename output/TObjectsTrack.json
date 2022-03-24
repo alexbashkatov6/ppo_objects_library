@@ -638,7 +638,8 @@
             "indent": "24SP",
             "idControlArea": "ULTRAMAR",
             "length": "5",
-            "trackUnit": "track_24SP"
+            "trackUnit": "track_24SP",
+            "type": "1"
         }
     },
     {

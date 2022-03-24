@@ -104,6 +104,7 @@ class PpoPointSection(PpoObject):
     idControlArea = AnyDescriptor()
     length = AnyDescriptor(default_value="5")
     trackUnit = AnyDescriptor()
+    type_ = AnyDescriptor(is_required=False)
 
 
 class PpoTrackSection(PpoObject):

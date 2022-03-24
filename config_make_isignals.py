@@ -35,7 +35,6 @@ new_obj.tag = "luzhskaya_CHU"
 new_obj.addrKI_KO = "USO:MAX_UINT"
 # new_obj.addrKI_KO = "Fixed_1"
 new_obj.addrKI_S = "USO:1:1:19"
-# new_obj.addrKI_RU = "USO:1:1:19"
 new_obj.addrKI_GM = "USO:1:1:20"
 m.append_obj(new_obj)
 
