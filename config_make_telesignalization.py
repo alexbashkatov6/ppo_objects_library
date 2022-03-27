@@ -12,7 +12,7 @@ input_train_et = ET.parse(os.path.join(INPUT_FOLDER, INTERFACE_FOLDER, "PpoCabin
 m = Manager()
 cabinets = []
 for elem in input_train_et.getroot():
-
+    a=2
     elem: ET.Element
     tag = elem.attrib['Tag']
     type_ = elem.attrib['Type']
