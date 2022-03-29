@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Компрессор очистки стрелок -->
 
+<Main>
     <IObj Type="KOS"  Tag="KOS" > <AddrKI  RD="1:1:27" /> <AddrUI  OSV="1:1:25" RDP="1:1:26" RDO="1:1:27" /> </IObj>
 
     <!-- Электропневматические клапаны (ЭПК) очистки стрелок -->
@@ -56,3 +57,4 @@
     <IObj Type="EPK"  Tag="EPK_66" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"                           VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
     <IObj Type="EPK"  Tag="EPK_68" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28"                                        VS4="1:1:32" VS5="1:1:33" VS6="1:1:34" /> </IObj>
     <IObj Type="EPK"  Tag="EPK_70" > <AddrKI  KEPK="1:1:28" /> <AddrUI  OEPK="1:1:28" VS1="1:1:29"                           VS4="1:1:32" VS5="1:1:33"              /> </IObj>
+</Main>

@@ -16,7 +16,8 @@ from ppo_objects import PpoObject, PpoRoutePointer, PpoRoutePointerRi, PpoTrainS
     PpoRailFittersWarningAreaRi, PpoRailFittersWarningArea, PpoCabinetUsoBk, PpoInsulationResistanceMonitoring, \
     PpoPointMachinesCurrentMonitoring, PpoTelesignalization, PpoPointsMonitoring, PpoLightModeRi, PpoLightMode, \
     PpoFireAndSecurityAlarm, PpoGeneralPurposeRelayInput, PpoGeneralPurposeRelayOutput, StartWarningArea, \
-    PpoLightSignalRi
+    PpoLightSignalRi, PpoElectropneumaticValveRi, PpoPneumaticCleaningCompressorRi, PpoPneumaticCleaningValve, \
+    PpoPneumaticCleaningArea
 from constants import INPUT_FOLDER, OUTPUT_FOLDER, INTERMEDIATE_IN_FOLDER, INTERMEDIATE_OUT_FOLDER, \
     PYTHON_KEYWORD_REPLACES
 

@@ -1,0 +1,1452 @@
+[
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_1",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_3",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_5",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_7",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_9",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_13",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_15",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_17",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_19",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_21",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_23",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_25",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_27",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_29",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_31",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_33",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_2",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_4",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_6",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_8",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_10",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_12",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_14",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_16",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_18",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_20",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_22",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_24",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_26",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_28",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_30",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_32",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "USO:1:1:30",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_34",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_36",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_38",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_40",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_42",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_44",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_46",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_48",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_50",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_52",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_54",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_56",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_58",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_60",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_62",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_64",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "USO:1:1:31",
+            "addrUI_VS4": "NoAddr",
+            "addrUI_VS5": "NoAddr",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_66",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_68",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "NoAddr",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "USO:1:1:34",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoElectropneumaticValveRi",
+        "tag": "EPK_70",
+        "data": {
+            "addrKI_KEPK": "USO:1:1:28",
+            "addrUI_OEPK": "USO:1:1:28",
+            "addrUI_VS1": "USO:1:1:29",
+            "addrUI_VS2": "NoAddr",
+            "addrUI_VS3": "NoAddr",
+            "addrUI_VS4": "USO:1:1:32",
+            "addrUI_VS5": "USO:1:1:33",
+            "addrUI_VS6": "NoAddr",
+            "addrUI_VS7": "NoAddr",
+            "addrUI_VS8": "NoAddr"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningCompressorRi",
+        "tag": "KOS",
+        "data": {
+            "addrKI_RD": "USO:1:1:27",
+            "addrUI_OSV": "USO:1:1:25",
+            "output_RDP": "RDP",
+            "output_RDO": "RDO"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_1",
+        "data": {
+            "id": "EPK_1",
+            "indent": "EPK_1",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_1",
+            "point": "1"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_2",
+        "data": {
+            "id": "EPK_2",
+            "indent": "EPK_2",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_2",
+            "point": "2"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_3",
+        "data": {
+            "id": "EPK_3",
+            "indent": "EPK_3",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_3",
+            "point": "3"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_4",
+        "data": {
+            "id": "EPK_4",
+            "indent": "EPK_4",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_4",
+            "point": "4"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_5",
+        "data": {
+            "id": "EPK_5",
+            "indent": "EPK_5",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_5",
+            "point": "5"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_6",
+        "data": {
+            "id": "EPK_6",
+            "indent": "EPK_6",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_6",
+            "point": "6"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_7",
+        "data": {
+            "id": "EPK_7",
+            "indent": "EPK_7",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_7",
+            "point": "7"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_8",
+        "data": {
+            "id": "EPK_8",
+            "indent": "EPK_8",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_8",
+            "point": "8"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_9",
+        "data": {
+            "id": "EPK_9",
+            "indent": "EPK_9",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_9",
+            "point": "9"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_10",
+        "data": {
+            "id": "EPK_10",
+            "indent": "EPK_10",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_10",
+            "point": "10"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_12",
+        "data": {
+            "id": "EPK_12",
+            "indent": "EPK_12",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_12",
+            "point": "12"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_13",
+        "data": {
+            "id": "EPK_13",
+            "indent": "EPK_13",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_13",
+            "point": "13"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_14",
+        "data": {
+            "id": "EPK_14",
+            "indent": "EPK_14",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_14",
+            "point": "14"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_15",
+        "data": {
+            "id": "EPK_15",
+            "indent": "EPK_15",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_15",
+            "point": "15"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_16",
+        "data": {
+            "id": "EPK_16",
+            "indent": "EPK_16",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_16",
+            "point": "16"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_17",
+        "data": {
+            "id": "EPK_17",
+            "indent": "EPK_17",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_17",
+            "point": "17"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_18",
+        "data": {
+            "id": "EPK_18",
+            "indent": "EPK_18",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_18",
+            "point": "18"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_19",
+        "data": {
+            "id": "EPK_19",
+            "indent": "EPK_19",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_19",
+            "point": "19"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_20",
+        "data": {
+            "id": "EPK_20",
+            "indent": "EPK_20",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_20",
+            "point": "20"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_21",
+        "data": {
+            "id": "EPK_21",
+            "indent": "EPK_21",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_21",
+            "point": "21"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_22",
+        "data": {
+            "id": "EPK_22",
+            "indent": "EPK_22",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_22",
+            "point": "22"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_23",
+        "data": {
+            "id": "EPK_23",
+            "indent": "EPK_23",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_23",
+            "point": "23"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_24",
+        "data": {
+            "id": "EPK_24",
+            "indent": "EPK_24",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_24",
+            "point": "24"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_25",
+        "data": {
+            "id": "EPK_25",
+            "indent": "EPK_25",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_25",
+            "point": "25"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_26",
+        "data": {
+            "id": "EPK_26",
+            "indent": "EPK_26",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_26",
+            "point": "26"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_27",
+        "data": {
+            "id": "EPK_27",
+            "indent": "EPK_27",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_27",
+            "point": "27"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_28",
+        "data": {
+            "id": "EPK_28",
+            "indent": "EPK_28",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_28",
+            "point": "28"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_29",
+        "data": {
+            "id": "EPK_29",
+            "indent": "EPK_29",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_29",
+            "point": "29"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_30",
+        "data": {
+            "id": "EPK_30",
+            "indent": "EPK_30",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_30",
+            "point": "30"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_31",
+        "data": {
+            "id": "EPK_31",
+            "indent": "EPK_31",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_31",
+            "point": "31"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_32",
+        "data": {
+            "id": "EPK_32",
+            "indent": "EPK_32",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_32",
+            "point": "32"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_33",
+        "data": {
+            "id": "EPK_33",
+            "indent": "EPK_33",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_33",
+            "point": "33"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_34",
+        "data": {
+            "id": "EPK_34",
+            "indent": "EPK_34",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_34",
+            "point": "34"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_36",
+        "data": {
+            "id": "EPK_36",
+            "indent": "EPK_36",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_36",
+            "point": "36"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_38",
+        "data": {
+            "id": "EPK_38",
+            "indent": "EPK_38",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_38",
+            "point": "38"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_40",
+        "data": {
+            "id": "EPK_40",
+            "indent": "EPK_40",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_40",
+            "point": "40"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_42",
+        "data": {
+            "id": "EPK_42",
+            "indent": "EPK_42",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_42",
+            "point": "42"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_44",
+        "data": {
+            "id": "EPK_44",
+            "indent": "EPK_44",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_44",
+            "point": "44"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_46",
+        "data": {
+            "id": "EPK_46",
+            "indent": "EPK_46",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_46",
+            "point": "46"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_48",
+        "data": {
+            "id": "EPK_48",
+            "indent": "EPK_48",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_48",
+            "point": "48"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_50",
+        "data": {
+            "id": "EPK_50",
+            "indent": "EPK_50",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_50",
+            "point": "50"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_52",
+        "data": {
+            "id": "EPK_52",
+            "indent": "EPK_52",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_52",
+            "point": "52"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_54",
+        "data": {
+            "id": "EPK_54",
+            "indent": "EPK_54",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_54",
+            "point": "54"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_56",
+        "data": {
+            "id": "EPK_56",
+            "indent": "EPK_56",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_56",
+            "point": "56"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_58",
+        "data": {
+            "id": "EPK_58",
+            "indent": "EPK_58",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_58",
+            "point": "58"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_60",
+        "data": {
+            "id": "EPK_60",
+            "indent": "EPK_60",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_60",
+            "point": "60"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_62",
+        "data": {
+            "id": "EPK_62",
+            "indent": "EPK_62",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_62",
+            "point": "62"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_64",
+        "data": {
+            "id": "EPK_64",
+            "indent": "EPK_64",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_64",
+            "point": "64"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_66",
+        "data": {
+            "id": "EPK_66",
+            "indent": "EPK_66",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_66",
+            "point": "66"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_68",
+        "data": {
+            "id": "EPK_68",
+            "indent": "EPK_68",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_68",
+            "point": "68"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningValve",
+        "tag": "EPK_70",
+        "data": {
+            "id": "EPK_70",
+            "indent": "EPK_70",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "EPK_70",
+            "point": "70"
+        }
+    },
+    {
+        "class": "PpoPneumaticCleaningArea",
+        "tag": "ROS",
+        "data": {
+            "id": "ROS",
+            "indent": "ROS",
+            "idControlArea": "ULTRAMAR",
+            "iObjTag": "KOS",
+            "valves": [
+                "EPK_1",
+                "EPK_2",
+                "EPK_3",
+                "EPK_4",
+                "EPK_5",
+                "EPK_6",
+                "EPK_7",
+                "EPK_8",
+                "EPK_9",
+                "EPK_10",
+                "EPK_12",
+                "EPK_13",
+                "EPK_14",
+                "EPK_15",
+                "EPK_16",
+                "EPK_17",
+                "EPK_18",
+                "EPK_19",
+                "EPK_20",
+                "EPK_21",
+                "EPK_22",
+                "EPK_23",
+                "EPK_24",
+                "EPK_25",
+                "EPK_26",
+                "EPK_27",
+                "EPK_28",
+                "EPK_29",
+                "EPK_30",
+                "EPK_31",
+                "EPK_32",
+                "EPK_33",
+                "EPK_34",
+                "EPK_36",
+                "EPK_38",
+                "EPK_40",
+                "EPK_42",
+                "EPK_44",
+                "EPK_46",
+                "EPK_48",
+                "EPK_50",
+                "EPK_52",
+                "EPK_54",
+                "EPK_56",
+                "EPK_58",
+                "EPK_60",
+                "EPK_62",
+                "EPK_64",
+                "EPK_66",
+                "EPK_68",
+                "EPK_70"
+            ]
+        }
+    }
+]

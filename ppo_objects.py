@@ -421,3 +421,39 @@ class PpoLightSignalRi(PpoObject):
     # addrKI_KMGS = AnyDescriptor(default_value="Fixed_0")
     # addrKI_ZHZS = AnyDescriptor(default_value="Fixed_0")
     # addrKI_ZS = AnyDescriptor(default_value="Fixed_0")
+
+
+class PpoElectropneumaticValveRi(PpoObject):
+    addrKI_KEPK = AnyDescriptor(default_value="Fixed_1")
+    addrUI_OEPK = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS1 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS2 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS3 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS4 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS5 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS6 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS7 = AnyDescriptor(default_value="NoAddr")
+    addrUI_VS8 = AnyDescriptor(default_value="NoAddr")
+
+
+class PpoPneumaticCleaningCompressorRi(PpoObject):
+    addrKI_RD = AnyDescriptor(default_value="Fixed_1")
+    addrUI_OSV = AnyDescriptor(default_value="NoAddr")
+    output_RDP = AnyDescriptor(default_value="RDP")
+    output_RDO = AnyDescriptor(default_value="RDO")
+
+
+class PpoPneumaticCleaningValve(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+    point = AnyDescriptor()
+
+
+class PpoPneumaticCleaningArea(PpoObject):
+    id_ = AnyDescriptor()
+    indent = AnyDescriptor()
+    idControlArea = AnyDescriptor()
+    iObjTag = AnyDescriptor()
+    valves = AnyDescriptor(is_list=True)

@@ -1,6 +1,7 @@
-
+<?xml version="1.0" encoding="windows-1251" ?>
     <!-- Район очистки стрелок -->
 
+<Main>
     <TObj Type="ROS" Id="6000"  Tag="ROS" >
 
       <KOS  IObj="KOS"  />
@@ -318,3 +319,4 @@
       <RU TObj="ULTRAMAR" /> <EPK IObj="EPK_70" /> <Str TObj="70" />
 
     </TObj>
+</Main>
